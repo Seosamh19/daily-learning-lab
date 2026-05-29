@@ -7,75 +7,77 @@ categories: learning
 
 ## 📜 Poem of the Day
 
-**"Why I am a Liberal"** — *Robert Browning*
+**"In a Gondola"** — *Robert Browning*
 
-> "Why?" Because all I haply can and do,
->   All that I am now, all I hope to be,--
->   Whence comes it save from fortune setting free
-> Body and soul the purpose to pursue,
-> God traced for both? If fetters, not a few,
->   Of prejudice, convention, fall from me,
->   These shall I bid men--each in his degree
-> Also God-guided--bear, and gayly too?
->   But little do or can the best of us:
-> That little is achieved thro' Liberty.
->   Who then dares hold, emancipated thus,
-> His fellow shall continue bound? not I,
->   Who live, love, labour freely, nor discuss
-> A brother's right to freedom. That is "Why."
+> He sings.
+> 
+> I send my heart up to thee, all my heart
+>         In this my singing.
+> For the stars help me, and the sea bears part;
+>         The very night is clinging
+> Closer to Venice' streets to leave one space
+>         Above me, whence thy face
+> May light my joyous heart to thee its dwelling-place.
+> 
+> She speaks.
+> 
+> Say after me, and try to say
+> My very words, as if each word
+> Came from you of your own accord,
+> In your own voice, in your own way:
+> ...
 
 ---
 
 ## 🎨 Art Masterpiece
 
-![Panel for a Huipil (Blouse or Tunic)](https://www.artic.edu/iiif/2/47c220a1-3081-4d29-b5a1-7bd5633da97f/full/843,/0/default.jpg)
+![Hurter Family Collection](https://www.artic.edu/iiif/2/342b2214-04d5-de63-b577-55a08a618960/full/843,/0/default.jpg)
 
-**Panel for a Huipil (Blouse or Tunic)** — Maya
-Possibly Quezaltenango, Guatemala (1900/50)
+**Hurter Family Collection** — Unknown (1894-1999)
 
-*Cotton, bands of plain weave with patterning wefts and warp chevron twill weave*
+*Correspondence, printed papers, manuscripts, architectural reprographic prints, color photographic prints and black and white photographic prints.*
 
-[View full details →](https://www.artic.edu/artworks/156461)
+[View full details →](https://www.artic.edu/artworks/262253)
 
 ---
 
 ## 📝 Short Essay
 
-**How to Do Nothing** — Jenny Odell
+**The Pleasure of Finding Things Out** — Richard Feynman
 
-*Doing nothing is hard. In a world where our value is determined by productivity, choosing to do nothing is a political act.*
+*I was born not knowing and have had only a little time to change that here and there.*
 
-🔗 [Read here](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb)
+🔗 [Read here](https://calteches.library.caltech.edu/35/2/FessayFinding.htm)
 
-Topic: productivity
+Topic: science
 
 ---
 
 ## 📖 Short Story
 
-**The Story of an Hour** — Kate Chopin (~5 min)
+**The Monkey's Paw** — W.W. Jacobs (~15 min)
 
-*Genre: literary fiction*
+*Genre: horror*
 
-🔗 [Read here](https://americanliterature.com/author/kate-chopin/short-story/the-story-of-an-hour)
+🔗 [Read here](https://americanliterature.com/author/ww-jacobs/short-story/the-monkeys-paw)
 
 ---
 
 ## 💡 Life Lesson
 
-> The purpose of life is not to be happy. It is to be useful, to be honourable, to be compassionate, to have it make some difference that you have lived.
+> Luck is what happens when preparation meets opportunity. Position yourself at the intersection.
 >
-> — *Ralph Waldo Emerson*
+> — *Seneca*
 
-**Reflection:** If you measured today not by happiness but by usefulness, how would you rate it?
+**Reflection:** What are you preparing for right now — and are you putting yourself in places where opportunity can find you?
 
 ---
 
 ## 📅 On This Day in History
 
-- **1982** — Pope John Paul II becomes the first pontiff to visit Canterbury Cathedral.
-- **363** — The Roman emperor Julian defeats the Sasanian army in the Battle of Ctesiphon, under the walls of the Sasanian capital, but is unable to take the city.
-- **1919** — Albert Einstein's theory of general relativity is tested (later confirmed) by Arthur Eddington and Andrew Claude de la Cherois Crommelin.
+- **1108** — Battle of Uclés: Almoravid troops under the command of Tamim ibn Yusuf defeat a Castile and León alliance under the command of Prince Sancho Alfónsez.
+- **1176** — Battle of Legnano: The Lombard League defeats Emperor Frederick I.
+- **1790** — Rhode Island becomes the last of North America's original Thirteen Colonies to ratify the Constitution and become one of the United States.
 
 ---
 

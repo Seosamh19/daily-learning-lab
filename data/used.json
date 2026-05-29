@@ -1,17 +1,22 @@
 {
   "poems": [
-    "Robert Browning|Why I am a Liberal"
+    "Robert Browning|Why I am a Liberal",
+    "Robert Browning|In a Gondola"
   ],
   "artworks": [
-    "156461"
+    "156461",
+    "262253"
   ],
   "essays": [
-    "essay-003"
+    "essay-003",
+    "essay-015"
   ],
   "stories": [
-    "story-015"
+    "story-015",
+    "story-012"
   ],
   "life_lessons": [
-    "lesson-010"
+    "lesson-010",
+    "lesson-018"
   ]
 }
