@@ -1,0 +1,31 @@
+title: Daily Learning Lab
+description: >-
+  A 1000-day journey through poetry, art, essays, stories, life lessons,
+  and history — delivered fresh twice a week.
+baseurl: "/daily-learning-lab"
+url: "https://seosamh19.github.io"
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Defaults
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "post"
+
+# Exclude from processing
+exclude:
+  - generate_post.py
+  - data/
+  - README.md
+  - Gemfile
+  - Gemfile.lock

@@ -1,0 +1,558 @@
+{
+  "essays": [
+    {
+      "id": "essay-001",
+      "title": "Why Time Feels So Weird Right Now",
+      "author": "Alan Burdick",
+      "hook": "Our subjective sense of time is elastic — stress, novelty, and routine stretch and compress it in ways neuroscience is only beginning to map.",
+      "link": "https://www.newyorker.com/science/elements/why-time-feels-so-weird-right-now",
+      "topic": "psychology"
+    },
+    {
+      "id": "essay-002",
+      "title": "The Art of Being Still",
+      "author": "Pico Iyer",
+      "hook": "In an age of speed, nothing is more invigorating than going slow — and nothing more urgent than sitting still.",
+      "link": "https://www.nytimes.com/2014/04/01/opinion/the-art-of-stillness.html",
+      "topic": "mindfulness"
+    },
+    {
+      "id": "essay-003",
+      "title": "How to Do Nothing",
+      "author": "Jenny Odell",
+      "hook": "Doing nothing is hard. In a world where our value is determined by productivity, choosing to do nothing is a political act.",
+      "link": "https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb",
+      "topic": "productivity"
+    },
+    {
+      "id": "essay-004",
+      "title": "The Busy Trap",
+      "author": "Tim Kreider",
+      "hook": "If you live in America and you're not busy, you're somehow deficient. But busyness serves as a kind of existential reassurance.",
+      "link": "https://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/",
+      "topic": "work-life"
+    },
+    {
+      "id": "essay-005",
+      "title": "Consider the Lobster",
+      "author": "David Foster Wallace",
+      "hook": "Is it all right to boil a sentient creature alive just for our gustatory pleasure? A philosophical inquiry from a food festival.",
+      "link": "https://www.gourmet.com/magazine/2000s/2004/08/consider_the_lobster",
+      "topic": "ethics"
+    },
+    {
+      "id": "essay-006",
+      "title": "This Is Water",
+      "author": "David Foster Wallace",
+      "hook": "The capital-T Truth is about life before death — about making it to 30, or maybe 50, without wanting to shoot yourself in the head.",
+      "link": "https://fs.blog/david-foster-wallace-this-is-water/",
+      "topic": "philosophy"
+    },
+    {
+      "id": "essay-007",
+      "title": "The Egg",
+      "author": "Andy Weir",
+      "hook": "Every time you victimized someone, you were victimizing yourself. Every act of kindness you've done, you've done to yourself.",
+      "link": "http://www.galactanet.com/oneoff/theegg_mod.html",
+      "topic": "philosophy"
+    },
+    {
+      "id": "essay-008",
+      "title": "Solitude and Leadership",
+      "author": "William Deresiewicz",
+      "hook": "If you want others to follow, learn to be alone with your thoughts.",
+      "link": "https://theamericanscholar.org/solitude-and-leadership/",
+      "topic": "leadership"
+    },
+    {
+      "id": "essay-009",
+      "title": "The Cook and the Chef: Musk's Secret Sauce",
+      "author": "Tim Urban",
+      "hook": "Most people are chefs (following recipes). The rare few are cooks (reasoning from first principles).",
+      "link": "https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html",
+      "topic": "thinking"
+    },
+    {
+      "id": "essay-010",
+      "title": "1000 True Fans",
+      "author": "Kevin Kelly",
+      "hook": "To be a successful creator you don't need millions of fans. You need only 1,000 true fans.",
+      "link": "https://kk.org/thetechnium/1000-true-fans/",
+      "topic": "finance"
+    },
+    {
+      "id": "essay-011",
+      "title": "Teach Yourself Programming in Ten Years",
+      "author": "Peter Norvig",
+      "hook": "Why is everyone in such a rush? Walk into any bookshop and you'll see 'Learn Java in 24 Hours.' The key is deliberate practice over years.",
+      "link": "https://norvig.com/21-days.html",
+      "topic": "learning"
+    },
+    {
+      "id": "essay-012",
+      "title": "The Tail End",
+      "author": "Tim Urban",
+      "hook": "When you look at your life in terms of remaining experiences rather than remaining years, certain things become startlingly clear.",
+      "link": "https://waitbutwhy.com/2015/12/the-tail-end.html",
+      "topic": "mortality"
+    },
+    {
+      "id": "essay-013",
+      "title": "You and Your Research",
+      "author": "Richard Hamming",
+      "hook": "Why do so few scientists make significant contributions while so many are forgotten? The difference is courage and focus.",
+      "link": "https://www.cs.virginia.edu/~robins/YouAndYourResearch.html",
+      "topic": "science"
+    },
+    {
+      "id": "essay-014",
+      "title": "Politics and the English Language",
+      "author": "George Orwell",
+      "hook": "Political language is designed to make lies sound truthful. But the slovenliness of our language makes it easier for us to have foolish thoughts.",
+      "link": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/",
+      "topic": "language"
+    },
+    {
+      "id": "essay-015",
+      "title": "The Pleasure of Finding Things Out",
+      "author": "Richard Feynman",
+      "hook": "I was born not knowing and have had only a little time to change that here and there.",
+      "link": "https://calteches.library.caltech.edu/35/2/FessayFinding.htm",
+      "topic": "science"
+    },
+    {
+      "id": "essay-016",
+      "title": "What I Talk About When I Talk About Running",
+      "author": "Haruki Murakami",
+      "hook": "Pain is inevitable. Suffering is optional. Running taught me everything about writing.",
+      "link": "https://lithub.com/haruki-murakami-talks-about-running/",
+      "topic": "discipline"
+    },
+    {
+      "id": "essay-017",
+      "title": "How Will You Measure Your Life?",
+      "author": "Clayton M. Christensen",
+      "hook": "The same theories that help companies avoid disruption can help individuals lead meaningful lives.",
+      "link": "https://hbr.org/2010/07/how-will-you-measure-your-life",
+      "topic": "life-design"
+    },
+    {
+      "id": "essay-018",
+      "title": "A Mathematician's Lament",
+      "author": "Paul Lockhart",
+      "hook": "If I had to design a mechanism for the express purpose of destroying a child's natural curiosity about mathematics, I couldn't do a better job than school.",
+      "link": "https://www.maa.org/external_archive/devlin/LockshartsLament.pdf",
+      "topic": "education"
+    },
+    {
+      "id": "essay-019",
+      "title": "The Crossroads of Should and Must",
+      "author": "Elle Luna",
+      "hook": "Should is how others want us to live. Must is who we are and what we believe. It's our convictions, our calling.",
+      "link": "https://medium.com/@elleluna/the-crossroads-of-should-and-must-90c75eb7c5b0",
+      "topic": "creativity"
+    },
+    {
+      "id": "essay-020",
+      "title": "What You'll Wish You'd Known",
+      "author": "Paul Graham",
+      "hook": "Don't decide too soon. The most important thing is to stay upwind — work on hard problems.",
+      "link": "https://paulgraham.com/hs.html",
+      "topic": "career"
+    },
+    {
+      "id": "essay-021",
+      "title": "Walking",
+      "author": "Henry David Thoreau",
+      "hook": "I think that I cannot preserve my health and spirits unless I spend four hours a day at least sauntering through the woods.",
+      "link": "https://www.theatlantic.com/magazine/archive/1862/06/walking/304674/",
+      "topic": "nature"
+    },
+    {
+      "id": "essay-022",
+      "title": "Self-Reliance",
+      "author": "Ralph Waldo Emerson",
+      "hook": "Trust thyself: every heart vibrates to that iron string. A foolish consistency is the hobgoblin of little minds.",
+      "link": "https://emersoncentral.com/texts/essays-first-series/self-reliance/",
+      "topic": "philosophy"
+    },
+    {
+      "id": "essay-023",
+      "title": "The Inner Ring",
+      "author": "C.S. Lewis",
+      "hook": "The quest to be inside the invisible inner ring will break your heart unless you break free of it.",
+      "link": "https://www.lewissociety.org/innerring/",
+      "topic": "social dynamics"
+    },
+    {
+      "id": "essay-024",
+      "title": "Maker's Schedule, Manager's Schedule",
+      "author": "Paul Graham",
+      "hook": "There are two types of schedule. A single meeting can blow a whole afternoon for someone on the maker's schedule.",
+      "link": "https://paulgraham.com/makersschedule.html",
+      "topic": "productivity"
+    },
+    {
+      "id": "essay-025",
+      "title": "The Days Are Long But The Decades Are Short",
+      "author": "Sam Altman",
+      "hook": "36 pieces of life advice on turning 30 — compound yourself, be willing to look stupid, and don't let yourself get pushed around.",
+      "link": "https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short",
+      "topic": "life-advice"
+    }
+  ],
+  "stories": [
+    {
+      "id": "story-001",
+      "title": "The Gift of the Magi",
+      "author": "O. Henry",
+      "reading_time": "10 min",
+      "genre": "literary fiction",
+      "link": "https://americanliterature.com/author/o-henry/short-story/the-gift-of-the-magi"
+    },
+    {
+      "id": "story-002",
+      "title": "The Tell-Tale Heart",
+      "author": "Edgar Allan Poe",
+      "reading_time": "10 min",
+      "genre": "horror",
+      "link": "https://americanliterature.com/author/edgar-allan-poe/short-story/the-tell-tale-heart"
+    },
+    {
+      "id": "story-003",
+      "title": "The Lottery",
+      "author": "Shirley Jackson",
+      "reading_time": "15 min",
+      "genre": "literary horror",
+      "link": "https://www.newyorker.com/magazine/1948/06/26/the-lottery"
+    },
+    {
+      "id": "story-004",
+      "title": "The Yellow Wallpaper",
+      "author": "Charlotte Perkins Gilman",
+      "reading_time": "20 min",
+      "genre": "psychological fiction",
+      "link": "https://www.nlm.nih.gov/exhibition/theliteratureofprescription/exhibitionAssets/digitalDocs/The-Yellow-Wall-Paper.pdf"
+    },
+    {
+      "id": "story-005",
+      "title": "An Occurrence at Owl Creek Bridge",
+      "author": "Ambrose Bierce",
+      "reading_time": "15 min",
+      "genre": "war fiction",
+      "link": "https://americanliterature.com/author/ambrose-bierce/short-story/an-occurrence-at-owl-creek-bridge"
+    },
+    {
+      "id": "story-006",
+      "title": "The Necklace",
+      "author": "Guy de Maupassant",
+      "reading_time": "12 min",
+      "genre": "literary fiction",
+      "link": "https://americanliterature.com/author/guy-de-maupassant/short-story/the-necklace"
+    },
+    {
+      "id": "story-007",
+      "title": "The Cask of Amontillado",
+      "author": "Edgar Allan Poe",
+      "reading_time": "12 min",
+      "genre": "gothic horror",
+      "link": "https://americanliterature.com/author/edgar-allan-poe/short-story/the-cask-of-amontillado"
+    },
+    {
+      "id": "story-008",
+      "title": "The Last Leaf",
+      "author": "O. Henry",
+      "reading_time": "10 min",
+      "genre": "literary fiction",
+      "link": "https://americanliterature.com/author/o-henry/short-story/the-last-leaf"
+    },
+    {
+      "id": "story-009",
+      "title": "A Good Man is Hard to Find",
+      "author": "Flannery O'Connor",
+      "reading_time": "25 min",
+      "genre": "Southern Gothic",
+      "link": "https://repositorio.ufsc.br/bitstream/handle/123456789/160332/A%20good%20man%20is%20hard%20to%20find.pdf"
+    },
+    {
+      "id": "story-010",
+      "title": "The Open Window",
+      "author": "Saki (H.H. Munro)",
+      "reading_time": "5 min",
+      "genre": "humour",
+      "link": "https://americanliterature.com/author/hh-munro-saki/short-story/the-open-window"
+    },
+    {
+      "id": "story-011",
+      "title": "The Most Dangerous Game",
+      "author": "Richard Connell",
+      "reading_time": "30 min",
+      "genre": "adventure/thriller",
+      "link": "https://americanliterature.com/author/richard-connell/short-story/the-most-dangerous-game"
+    },
+    {
+      "id": "story-012",
+      "title": "The Monkey's Paw",
+      "author": "W.W. Jacobs",
+      "reading_time": "15 min",
+      "genre": "horror",
+      "link": "https://americanliterature.com/author/ww-jacobs/short-story/the-monkeys-paw"
+    },
+    {
+      "id": "story-013",
+      "title": "The Lady, or the Tiger?",
+      "author": "Frank R. Stockton",
+      "reading_time": "12 min",
+      "genre": "literary fiction",
+      "link": "https://americanliterature.com/author/frank-r-stockton/short-story/the-lady-or-the-tiger"
+    },
+    {
+      "id": "story-014",
+      "title": "To Build a Fire",
+      "author": "Jack London",
+      "reading_time": "25 min",
+      "genre": "adventure/survival",
+      "link": "https://americanliterature.com/author/jack-london/short-story/to-build-a-fire"
+    },
+    {
+      "id": "story-015",
+      "title": "The Story of an Hour",
+      "author": "Kate Chopin",
+      "reading_time": "5 min",
+      "genre": "literary fiction",
+      "link": "https://americanliterature.com/author/kate-chopin/short-story/the-story-of-an-hour"
+    },
+    {
+      "id": "story-016",
+      "title": "A Retrieved Reformation",
+      "author": "O. Henry",
+      "reading_time": "12 min",
+      "genre": "crime fiction",
+      "link": "https://americanliterature.com/author/o-henry/short-story/a-retrieved-reformation"
+    },
+    {
+      "id": "story-017",
+      "title": "The Celebrated Jumping Frog of Calaveras County",
+      "author": "Mark Twain",
+      "reading_time": "10 min",
+      "genre": "humour",
+      "link": "https://americanliterature.com/author/mark-twain/short-story/the-celebrated-jumping-frog-of-calaveras-county"
+    },
+    {
+      "id": "story-018",
+      "title": "Bartleby, the Scrivener",
+      "author": "Herman Melville",
+      "reading_time": "45 min",
+      "genre": "literary fiction",
+      "link": "https://americanliterature.com/author/herman-melville/short-story/bartleby-the-scrivener"
+    },
+    {
+      "id": "story-019",
+      "title": "The Secret Life of Walter Mitty",
+      "author": "James Thurber",
+      "reading_time": "10 min",
+      "genre": "humour/literary",
+      "link": "https://www.newyorker.com/magazine/1939/03/18/the-secret-life-of-walter-mitty"
+    },
+    {
+      "id": "story-020",
+      "title": "The Ones Who Walk Away from Omelas",
+      "author": "Ursula K. Le Guin",
+      "reading_time": "15 min",
+      "genre": "speculative fiction",
+      "link": "https://shsdavisapes.pbworks.com/w/file/fetch/58339595/Omelas.pdf"
+    },
+    {
+      "id": "story-021",
+      "title": "Harrison Bergeron",
+      "author": "Kurt Vonnegut",
+      "reading_time": "10 min",
+      "genre": "dystopian satire",
+      "link": "https://www.tnellen.com/cybereng/harrison.html"
+    },
+    {
+      "id": "story-022",
+      "title": "The Veldt",
+      "author": "Ray Bradbury",
+      "reading_time": "20 min",
+      "genre": "science fiction",
+      "link": "https://repositorio.ufsc.br/bitstream/handle/123456789/163728/The%20Veldt%20-%20Ray%20Bradbury.pdf"
+    },
+    {
+      "id": "story-023",
+      "title": "Hills Like White Elephants",
+      "author": "Ernest Hemingway",
+      "reading_time": "8 min",
+      "genre": "literary fiction",
+      "link": "https://faculty.weber.edu/jyoung/English%202500/Readings/Hills%20Like%20White%20Elephants.pdf"
+    },
+    {
+      "id": "story-024",
+      "title": "The Landlady",
+      "author": "Roald Dahl",
+      "reading_time": "12 min",
+      "genre": "suspense",
+      "link": "https://www.classicshorts.com/stories/landlady.html"
+    },
+    {
+      "id": "story-025",
+      "title": "Rip Van Winkle",
+      "author": "Washington Irving",
+      "reading_time": "25 min",
+      "genre": "fantasy/folklore",
+      "link": "https://americanliterature.com/author/washington-irving/short-story/rip-van-winkle"
+    }
+  ],
+  "life_lessons": [
+    {
+      "id": "lesson-001",
+      "maxim": "The obstacle is the way. What stands in your path becomes your path — the struggle itself is where skill, patience, and character are forged, not merely tested.",
+      "source": "Marcus Aurelius, Meditations V.20",
+      "reflection": "What's one difficulty you're currently resisting that might actually be the most productive thing you could lean into?"
+    },
+    {
+      "id": "lesson-002",
+      "maxim": "We are what we repeatedly do. Excellence, then, is not an act but a habit.",
+      "source": "Will Durant (summarising Aristotle)",
+      "reflection": "What is one small action you could do daily that would compound into something meaningful over a year?"
+    },
+    {
+      "id": "lesson-003",
+      "maxim": "The best time to plant a tree was twenty years ago. The second best time is now.",
+      "source": "Chinese proverb",
+      "reflection": "What have you been postponing because it feels 'too late' to start?"
+    },
+    {
+      "id": "lesson-004",
+      "maxim": "You can't connect the dots looking forward; you can only connect them looking backward. So you have to trust that the dots will somehow connect in your future.",
+      "source": "Steve Jobs, Stanford Commencement 2005",
+      "reflection": "When has a seemingly random experience later turned out to be exactly what you needed?"
+    },
+    {
+      "id": "lesson-005",
+      "maxim": "Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom.",
+      "source": "Viktor Frankl, Man's Search for Meaning",
+      "reflection": "When did you last react automatically to something that deserved a pause first?"
+    },
+    {
+      "id": "lesson-006",
+      "maxim": "The man who moves a mountain begins by carrying away small stones.",
+      "source": "Confucius",
+      "reflection": "What large goal could you break into a single 15-minute action today?"
+    },
+    {
+      "id": "lesson-007",
+      "maxim": "If you are depressed, you are living in the past. If you are anxious, you are living in the future. If you are at peace, you are living in the present.",
+      "source": "Lao Tzu",
+      "reflection": "Where is your mind spending most of its time right now — past, future, or present?"
+    },
+    {
+      "id": "lesson-008",
+      "maxim": "The only true wisdom is in knowing you know nothing.",
+      "source": "Socrates (via Plato's Apology)",
+      "reflection": "In what area of your life are you most confident — and could that confidence be hiding a blind spot?"
+    },
+    {
+      "id": "lesson-009",
+      "maxim": "Compound interest is the eighth wonder of the world. He who understands it, earns it; he who doesn't, pays it.",
+      "source": "Attributed to Albert Einstein",
+      "reflection": "Where in your life — finances, relationships, skills — are you benefiting from compounding, and where are you paying compound costs?"
+    },
+    {
+      "id": "lesson-010",
+      "maxim": "The purpose of life is not to be happy. It is to be useful, to be honourable, to be compassionate, to have it make some difference that you have lived.",
+      "source": "Ralph Waldo Emerson",
+      "reflection": "If you measured today not by happiness but by usefulness, how would you rate it?"
+    },
+    {
+      "id": "lesson-011",
+      "maxim": "Memento mori — remember you will die. Not as morbidity, but as clarity. Knowing time is finite makes each choice weigh what it should.",
+      "source": "Stoic tradition",
+      "reflection": "If you had five years left, what would you stop doing immediately?"
+    },
+    {
+      "id": "lesson-012",
+      "maxim": "Ships in harbour are safe, but that's not what ships are built for.",
+      "source": "John A. Shedd",
+      "reflection": "What is one 'safe' choice you're making that's actually holding you back from your purpose?"
+    },
+    {
+      "id": "lesson-013",
+      "maxim": "You do not rise to the level of your goals. You fall to the level of your systems.",
+      "source": "James Clear, Atomic Habits",
+      "reflection": "What system (not goal) could you design this week that would make progress automatic?"
+    },
+    {
+      "id": "lesson-014",
+      "maxim": "No man ever steps in the same river twice, for it's not the same river and he's not the same man.",
+      "source": "Heraclitus",
+      "reflection": "How have you changed in the last year in ways you haven't fully acknowledged?"
+    },
+    {
+      "id": "lesson-015",
+      "maxim": "The greatest enemy of knowledge is not ignorance; it is the illusion of knowledge.",
+      "source": "Daniel J. Boorstin",
+      "reflection": "What do you 'know' that you've never actually tested or verified?"
+    },
+    {
+      "id": "lesson-016",
+      "maxim": "How you do anything is how you do everything. Small disciplines repeated with consistency lead to great achievements gained slowly over time.",
+      "source": "John C. Maxwell",
+      "reflection": "What 'small' thing are you doing carelessly that might be a signal about your larger patterns?"
+    },
+    {
+      "id": "lesson-017",
+      "maxim": "The cost of a thing is the amount of life you exchange for it.",
+      "source": "Henry David Thoreau, Walden",
+      "reflection": "Is there a regular expense (time or money) in your life that isn't worth the life-hours it costs?"
+    },
+    {
+      "id": "lesson-018",
+      "maxim": "Luck is what happens when preparation meets opportunity. Position yourself at the intersection.",
+      "source": "Seneca",
+      "reflection": "What are you preparing for right now — and are you putting yourself in places where opportunity can find you?"
+    },
+    {
+      "id": "lesson-019",
+      "maxim": "Everyone thinks of changing the world, but no one thinks of changing himself.",
+      "source": "Leo Tolstoy",
+      "reflection": "What change are you hoping to see in others or in circumstances that you could first model yourself?"
+    },
+    {
+      "id": "lesson-020",
+      "maxim": "The two most important days in your life are the day you are born and the day you find out why.",
+      "source": "Mark Twain",
+      "reflection": "If you had to articulate your 'why' in one sentence today, what would it be?"
+    },
+    {
+      "id": "lesson-021",
+      "maxim": "Comparison is the thief of joy. Run your own race at your own pace — the only meaningful benchmark is yesterday's version of yourself.",
+      "source": "Theodore Roosevelt (adapted)",
+      "reflection": "Whose progress have you been comparing yourself to — and what would change if you stopped?"
+    },
+    {
+      "id": "lesson-022",
+      "maxim": "What gets measured gets managed. But be careful what you measure — you'll optimise for it whether you meant to or not.",
+      "source": "Peter Drucker (adapted)",
+      "reflection": "What metric are you unconsciously optimising for in your daily life? Is it the right one?"
+    },
+    {
+      "id": "lesson-023",
+      "maxim": "The reading of all good books is like a conversation with the finest minds of past centuries.",
+      "source": "René Descartes",
+      "reflection": "When did you last let a book genuinely change your mind about something?"
+    },
+    {
+      "id": "lesson-024",
+      "maxim": "Silence is a source of great strength. In the space of not-speaking, you hear what matters.",
+      "source": "Lao Tzu",
+      "reflection": "When did you last sit in complete silence for ten minutes — and what surfaced?"
+    },
+    {
+      "id": "lesson-025",
+      "maxim": "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle.",
+      "source": "Steve Jobs",
+      "reflection": "What part of your current work do you genuinely love — and how could you do more of it?"
+    }
+  ]
+}

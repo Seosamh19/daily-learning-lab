@@ -1,0 +1,40 @@
+name: Daily Learning Lab
+
+on:
+  schedule:
+    # Twice per week at random-ish times during Irish working hours (UTC+1 in summer)
+    # Wednesday at 10:13 UTC (11:13 IST)
+    - cron: '13 10 * * 3'
+    # Friday at 13:42 UTC (14:42 IST)
+    - cron: '42 13 * * 5'
+  workflow_dispatch:  # Manual trigger for testing
+
+permissions:
+  contents: write
+
+jobs:
+  generate-and-publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate today's post
+        run: python generate_post.py
+
+      - name: Commit and push new post
+        run: |
+          git config user.name "Learning Lab Bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add _posts/ data/used.json
+          git commit -m "Add Daily Learning Lab post for $(date +%Y-%m-%d)" || echo "No changes to commit"
+          git push
