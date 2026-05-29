@@ -2,11 +2,8 @@ name: Daily Learning Lab
 
 on:
   schedule:
-    # Twice per week at random-ish times during Irish working hours (UTC+1 in summer)
-    # Wednesday at 10:13 UTC (11:13 IST)
-    - cron: '13 10 * * 3'
-    # Friday at 13:42 UTC (14:42 IST)
-    - cron: '42 13 * * 5'
+    # Daily at 07:47 UTC (08:47 IST) — every morning during working hours
+    - cron: '47 7 * * *'
   workflow_dispatch:  # Manual trigger for testing
 
 permissions:
