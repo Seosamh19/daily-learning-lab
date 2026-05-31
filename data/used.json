@@ -2,26 +2,31 @@
   "poems": [
     "Robert Browning|Why I am a Liberal",
     "Robert Browning|In a Gondola",
-    "Alexander Pope|Messiah."
+    "Alexander Pope|Messiah.",
+    "Emily Dickinson|Glass was the Street -- in tinsel Peril"
   ],
   "artworks": [
     "156461",
     "262253",
-    "128208"
+    "128208",
+    "207204"
   ],
   "essays": [
     "essay-003",
     "essay-015",
-    "essay-007"
+    "essay-007",
+    "essay-019"
   ],
   "stories": [
     "story-015",
     "story-012",
-    "story-011"
+    "story-011",
+    "story-020"
   ],
   "life_lessons": [
     "lesson-010",
     "lesson-018",
-    "lesson-003"
+    "lesson-003",
+    "lesson-022"
   ]
 }
