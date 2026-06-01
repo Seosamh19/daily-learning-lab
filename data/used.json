@@ -3,30 +3,35 @@
     "Robert Browning|Why I am a Liberal",
     "Robert Browning|In a Gondola",
     "Alexander Pope|Messiah.",
-    "Emily Dickinson|Glass was the Street -- in tinsel Peril"
+    "Emily Dickinson|Glass was the Street -- in tinsel Peril",
+    "Walt Whitman|From Paumanok Starting."
   ],
   "artworks": [
     "156461",
     "262253",
     "128208",
-    "207204"
+    "207204",
+    "270314"
   ],
   "essays": [
     "essay-003",
     "essay-015",
     "essay-007",
-    "essay-019"
+    "essay-019",
+    "essay-008"
   ],
   "stories": [
     "story-015",
     "story-012",
     "story-011",
-    "story-020"
+    "story-020",
+    "story-006"
   ],
   "life_lessons": [
     "lesson-010",
     "lesson-018",
     "lesson-003",
-    "lesson-022"
+    "lesson-022",
+    "lesson-009"
   ]
 }
