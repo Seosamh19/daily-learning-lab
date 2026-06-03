@@ -5,7 +5,8 @@
     "Alexander Pope|Messiah.",
     "Emily Dickinson|Glass was the Street -- in tinsel Peril",
     "Walt Whitman|From Paumanok Starting.",
-    "George Gordon, Lord Byron|Heaven and Earth"
+    "George Gordon, Lord Byron|Heaven and Earth",
+    "John Milton|Paradise Lost: Book 10"
   ],
   "artworks": [
     "156461",
@@ -13,7 +14,8 @@
     "128208",
     "207204",
     "270314",
-    "76747"
+    "76747",
+    "50155"
   ],
   "essays": [
     "essay-003",
@@ -21,7 +23,8 @@
     "essay-007",
     "essay-019",
     "essay-008",
-    "essay-013"
+    "essay-013",
+    "essay-010"
   ],
   "stories": [
     "story-015",
@@ -29,7 +32,8 @@
     "story-011",
     "story-020",
     "story-006",
-    "story-021"
+    "story-021",
+    "story-013"
   ],
   "life_lessons": [
     "lesson-010",
@@ -37,6 +41,7 @@
     "lesson-003",
     "lesson-022",
     "lesson-009",
-    "lesson-004"
+    "lesson-004",
+    "lesson-013"
   ]
 }
