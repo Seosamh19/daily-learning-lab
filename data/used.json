@@ -6,7 +6,8 @@
     "Emily Dickinson|Glass was the Street -- in tinsel Peril",
     "Walt Whitman|From Paumanok Starting.",
     "George Gordon, Lord Byron|Heaven and Earth",
-    "John Milton|Paradise Lost: Book 10"
+    "John Milton|Paradise Lost: Book 10",
+    "Robert Burns|247. Ode, Sacred to the Memory of Mrs. Oswald of Auchencruive"
   ],
   "artworks": [
     "156461",
@@ -15,7 +16,8 @@
     "207204",
     "270314",
     "76747",
-    "50155"
+    "50155",
+    "134452"
   ],
   "essays": [
     "essay-003",
@@ -24,7 +26,8 @@
     "essay-019",
     "essay-008",
     "essay-013",
-    "essay-010"
+    "essay-010",
+    "essay-020"
   ],
   "stories": [
     "story-015",
@@ -33,7 +36,8 @@
     "story-020",
     "story-006",
     "story-021",
-    "story-013"
+    "story-013",
+    "story-008"
   ],
   "life_lessons": [
     "lesson-010",
@@ -42,6 +46,7 @@
     "lesson-022",
     "lesson-009",
     "lesson-004",
-    "lesson-013"
+    "lesson-013",
+    "lesson-001"
   ]
 }
