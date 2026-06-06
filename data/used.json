@@ -8,7 +8,8 @@
     "George Gordon, Lord Byron|Heaven and Earth",
     "John Milton|Paradise Lost: Book 10",
     "Robert Burns|247. Ode, Sacred to the Memory of Mrs. Oswald of Auchencruive",
-    "Edgar Allan Poe|Eldorado"
+    "Edgar Allan Poe|Eldorado",
+    "George Gordon, Lord Byron|Sonnet to Lake Leman"
   ],
   "artworks": [
     "156461",
@@ -30,7 +31,8 @@
     "essay-013",
     "essay-010",
     "essay-020",
-    "essay-002"
+    "essay-002",
+    "essay-018"
   ],
   "stories": [
     "story-015",
@@ -41,7 +43,8 @@
     "story-021",
     "story-013",
     "story-008",
-    "story-003"
+    "story-003",
+    "story-001"
   ],
   "life_lessons": [
     "lesson-010",
@@ -52,6 +55,7 @@
     "lesson-004",
     "lesson-013",
     "lesson-001",
-    "lesson-020"
+    "lesson-020",
+    "lesson-025"
   ]
 }
