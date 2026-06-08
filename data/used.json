@@ -10,7 +10,8 @@
     "Robert Burns|247. Ode, Sacred to the Memory of Mrs. Oswald of Auchencruive",
     "Edgar Allan Poe|Eldorado",
     "George Gordon, Lord Byron|Sonnet to Lake Leman",
-    "Robert Browning|Abt Vogler: After he has been extemporizing upon the musical instrument of his invention"
+    "Robert Browning|Abt Vogler: After he has been extemporizing upon the musical instrument of his invention",
+    "John Dryden|Absalom And Achitophel"
   ],
   "artworks": [
     "156461",
@@ -22,7 +23,8 @@
     "50155",
     "134452",
     "272045",
-    "91180"
+    "91180",
+    "13527"
   ],
   "essays": [
     "essay-003",
@@ -35,7 +37,8 @@
     "essay-020",
     "essay-002",
     "essay-018",
-    "essay-011"
+    "essay-011",
+    "essay-005"
   ],
   "stories": [
     "story-015",
@@ -48,7 +51,8 @@
     "story-008",
     "story-003",
     "story-001",
-    "story-016"
+    "story-016",
+    "story-005"
   ],
   "life_lessons": [
     "lesson-010",
@@ -61,6 +65,7 @@
     "lesson-001",
     "lesson-020",
     "lesson-025",
-    "lesson-021"
+    "lesson-021",
+    "lesson-012"
   ]
 }
