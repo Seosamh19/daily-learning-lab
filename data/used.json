@@ -11,7 +11,8 @@
     "Edgar Allan Poe|Eldorado",
     "George Gordon, Lord Byron|Sonnet to Lake Leman",
     "Robert Browning|Abt Vogler: After he has been extemporizing upon the musical instrument of his invention",
-    "John Dryden|Absalom And Achitophel"
+    "John Dryden|Absalom And Achitophel",
+    "Edward Thomas|Wind and Mist"
   ],
   "artworks": [
     "156461",
@@ -24,7 +25,8 @@
     "134452",
     "272045",
     "91180",
-    "13527"
+    "13527",
+    "254311"
   ],
   "essays": [
     "essay-003",
@@ -38,7 +40,8 @@
     "essay-002",
     "essay-018",
     "essay-011",
-    "essay-005"
+    "essay-005",
+    "essay-024"
   ],
   "stories": [
     "story-015",
@@ -52,7 +55,8 @@
     "story-003",
     "story-001",
     "story-016",
-    "story-005"
+    "story-005",
+    "story-019"
   ],
   "life_lessons": [
     "lesson-010",
@@ -66,6 +70,7 @@
     "lesson-020",
     "lesson-025",
     "lesson-021",
-    "lesson-012"
+    "lesson-012",
+    "lesson-008"
   ]
 }
