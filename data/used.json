@@ -12,7 +12,8 @@
     "George Gordon, Lord Byron|Sonnet to Lake Leman",
     "Robert Browning|Abt Vogler: After he has been extemporizing upon the musical instrument of his invention",
     "John Dryden|Absalom And Achitophel",
-    "Edward Thomas|Wind and Mist"
+    "Edward Thomas|Wind and Mist",
+    "Geoffrey Chaucer|The Canterbury Tales. The Sompnour's Tale."
   ],
   "artworks": [
     "156461",
@@ -26,7 +27,8 @@
     "272045",
     "91180",
     "13527",
-    "254311"
+    "254311",
+    "269504"
   ],
   "essays": [
     "essay-003",
@@ -41,7 +43,8 @@
     "essay-018",
     "essay-011",
     "essay-005",
-    "essay-024"
+    "essay-024",
+    "essay-023"
   ],
   "stories": [
     "story-015",
@@ -56,7 +59,8 @@
     "story-001",
     "story-016",
     "story-005",
-    "story-019"
+    "story-019",
+    "story-009"
   ],
   "life_lessons": [
     "lesson-010",
@@ -71,6 +75,7 @@
     "lesson-025",
     "lesson-021",
     "lesson-012",
-    "lesson-008"
+    "lesson-008",
+    "lesson-023"
   ]
 }
