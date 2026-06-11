@@ -13,7 +13,8 @@
     "Robert Browning|Abt Vogler: After he has been extemporizing upon the musical instrument of his invention",
     "John Dryden|Absalom And Achitophel",
     "Edward Thomas|Wind and Mist",
-    "Geoffrey Chaucer|The Canterbury Tales. The Sompnour's Tale."
+    "Geoffrey Chaucer|The Canterbury Tales. The Sompnour's Tale.",
+    "Percy Bysshe Shelley|Epipsychidion"
   ],
   "artworks": [
     "156461",
@@ -28,7 +29,8 @@
     "91180",
     "13527",
     "254311",
-    "269504"
+    "269504",
+    "58175"
   ],
   "essays": [
     "essay-003",
@@ -44,7 +46,8 @@
     "essay-011",
     "essay-005",
     "essay-024",
-    "essay-023"
+    "essay-023",
+    "essay-009"
   ],
   "stories": [
     "story-015",
@@ -60,7 +63,8 @@
     "story-016",
     "story-005",
     "story-019",
-    "story-009"
+    "story-009",
+    "story-023"
   ],
   "life_lessons": [
     "lesson-010",
@@ -76,6 +80,7 @@
     "lesson-021",
     "lesson-012",
     "lesson-008",
-    "lesson-023"
+    "lesson-023",
+    "lesson-005"
   ]
 }
