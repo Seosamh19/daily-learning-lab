@@ -15,7 +15,8 @@
     "Edward Thomas|Wind and Mist",
     "Geoffrey Chaucer|The Canterbury Tales. The Sompnour's Tale.",
     "Percy Bysshe Shelley|Epipsychidion",
-    "Emma Lazarus|Success"
+    "Emma Lazarus|Success",
+    "Geoffrey Chaucer|The Canterbury Tales. The Prioress's Tale."
   ],
   "artworks": [
     "156461",
@@ -32,7 +33,8 @@
     "254311",
     "269504",
     "58175",
-    "147055"
+    "147055",
+    "63073"
   ],
   "essays": [
     "essay-003",
@@ -50,7 +52,8 @@
     "essay-024",
     "essay-023",
     "essay-009",
-    "essay-001"
+    "essay-001",
+    "essay-021"
   ],
   "stories": [
     "story-015",
@@ -68,7 +71,8 @@
     "story-019",
     "story-009",
     "story-023",
-    "story-022"
+    "story-022",
+    "story-018"
   ],
   "life_lessons": [
     "lesson-010",
@@ -86,6 +90,7 @@
     "lesson-008",
     "lesson-023",
     "lesson-005",
-    "lesson-002"
+    "lesson-002",
+    "lesson-024"
   ]
 }
