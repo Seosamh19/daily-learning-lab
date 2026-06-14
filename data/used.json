@@ -16,7 +16,8 @@
     "Geoffrey Chaucer|The Canterbury Tales. The Sompnour's Tale.",
     "Percy Bysshe Shelley|Epipsychidion",
     "Emma Lazarus|Success",
-    "Geoffrey Chaucer|The Canterbury Tales. The Prioress's Tale."
+    "Geoffrey Chaucer|The Canterbury Tales. The Prioress's Tale.",
+    "Percy Bysshe Shelley|Prince Athanase.  a Fragment"
   ],
   "artworks": [
     "156461",
@@ -34,7 +35,8 @@
     "269504",
     "58175",
     "147055",
-    "63073"
+    "63073",
+    "127867"
   ],
   "essays": [
     "essay-003",
@@ -53,7 +55,8 @@
     "essay-023",
     "essay-009",
     "essay-001",
-    "essay-021"
+    "essay-021",
+    "essay-014"
   ],
   "stories": [
     "story-015",
@@ -72,7 +75,8 @@
     "story-009",
     "story-023",
     "story-022",
-    "story-018"
+    "story-018",
+    "story-002"
   ],
   "life_lessons": [
     "lesson-010",
@@ -91,6 +95,7 @@
     "lesson-023",
     "lesson-005",
     "lesson-002",
-    "lesson-024"
+    "lesson-024",
+    "lesson-011"
   ]
 }
