@@ -18,7 +18,8 @@
     "Emma Lazarus|Success",
     "Geoffrey Chaucer|The Canterbury Tales. The Prioress's Tale.",
     "Percy Bysshe Shelley|Prince Athanase.  a Fragment",
-    "Geoffrey Chaucer|The Canterbury Tales. The Friar's Tale."
+    "Geoffrey Chaucer|The Canterbury Tales. The Friar's Tale.",
+    "George Gordon, Lord Byron|Lines Written in an Album, at Malta"
   ],
   "artworks": [
     "156461",
@@ -38,7 +39,8 @@
     "147055",
     "63073",
     "127867",
-    "230708"
+    "230708",
+    "19456"
   ],
   "essays": [
     "essay-003",
@@ -59,7 +61,8 @@
     "essay-001",
     "essay-021",
     "essay-014",
-    "essay-012"
+    "essay-012",
+    "essay-025"
   ],
   "stories": [
     "story-015",
@@ -80,7 +83,8 @@
     "story-022",
     "story-018",
     "story-002",
-    "story-004"
+    "story-004",
+    "story-017"
   ],
   "life_lessons": [
     "lesson-010",
@@ -101,6 +105,7 @@
     "lesson-002",
     "lesson-024",
     "lesson-011",
-    "lesson-014"
+    "lesson-014",
+    "lesson-007"
   ]
 }
