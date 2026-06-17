@@ -19,7 +19,8 @@
     "Geoffrey Chaucer|The Canterbury Tales. The Prioress's Tale.",
     "Percy Bysshe Shelley|Prince Athanase.  a Fragment",
     "Geoffrey Chaucer|The Canterbury Tales. The Friar's Tale.",
-    "George Gordon, Lord Byron|Lines Written in an Album, at Malta"
+    "George Gordon, Lord Byron|Lines Written in an Album, at Malta",
+    "Emily Dickinson|Summer laid her simple Hat"
   ],
   "artworks": [
     "156461",
@@ -40,7 +41,8 @@
     "63073",
     "127867",
     "230708",
-    "19456"
+    "19456",
+    "90446"
   ],
   "essays": [
     "essay-003",
@@ -62,7 +64,8 @@
     "essay-021",
     "essay-014",
     "essay-012",
-    "essay-025"
+    "essay-025",
+    "essay-016"
   ],
   "stories": [
     "story-015",
@@ -84,7 +87,8 @@
     "story-018",
     "story-002",
     "story-004",
-    "story-017"
+    "story-017",
+    "story-025"
   ],
   "life_lessons": [
     "lesson-010",
@@ -106,6 +110,7 @@
     "lesson-024",
     "lesson-011",
     "lesson-014",
-    "lesson-007"
+    "lesson-007",
+    "lesson-016"
   ]
 }
