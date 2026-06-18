@@ -20,7 +20,8 @@
     "Percy Bysshe Shelley|Prince Athanase.  a Fragment",
     "Geoffrey Chaucer|The Canterbury Tales. The Friar's Tale.",
     "George Gordon, Lord Byron|Lines Written in an Album, at Malta",
-    "Emily Dickinson|Summer laid her simple Hat"
+    "Emily Dickinson|Summer laid her simple Hat",
+    "Robert Burns|79. Adam Armour\u2019s Prayer"
   ],
   "artworks": [
     "156461",
@@ -42,7 +43,8 @@
     "127867",
     "230708",
     "19456",
-    "90446"
+    "90446",
+    "78547"
   ],
   "essays": [
     "essay-003",
@@ -65,7 +67,8 @@
     "essay-014",
     "essay-012",
     "essay-025",
-    "essay-016"
+    "essay-016",
+    "essay-022"
   ],
   "stories": [
     "story-015",
@@ -88,7 +91,8 @@
     "story-002",
     "story-004",
     "story-017",
-    "story-025"
+    "story-025",
+    "story-010"
   ],
   "life_lessons": [
     "lesson-010",
@@ -111,6 +115,7 @@
     "lesson-011",
     "lesson-014",
     "lesson-007",
-    "lesson-016"
+    "lesson-016",
+    "lesson-006"
   ]
 }
