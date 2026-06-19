@@ -21,7 +21,8 @@
     "Geoffrey Chaucer|The Canterbury Tales. The Friar's Tale.",
     "George Gordon, Lord Byron|Lines Written in an Album, at Malta",
     "Emily Dickinson|Summer laid her simple Hat",
-    "Robert Burns|79. Adam Armour\u2019s Prayer"
+    "Robert Burns|79. Adam Armour\u2019s Prayer",
+    "Geoffrey Chaucer|The Canterbury Tales. The Doctor's Tale."
   ],
   "artworks": [
     "156461",
@@ -44,7 +45,8 @@
     "230708",
     "19456",
     "90446",
-    "78547"
+    "78547",
+    "159096"
   ],
   "essays": [
     "essay-003",
@@ -68,7 +70,8 @@
     "essay-012",
     "essay-025",
     "essay-016",
-    "essay-022"
+    "essay-022",
+    "essay-004"
   ],
   "stories": [
     "story-015",
@@ -92,7 +95,8 @@
     "story-004",
     "story-017",
     "story-025",
-    "story-010"
+    "story-010",
+    "story-024"
   ],
   "life_lessons": [
     "lesson-010",
@@ -116,6 +120,7 @@
     "lesson-014",
     "lesson-007",
     "lesson-016",
-    "lesson-006"
+    "lesson-006",
+    "lesson-017"
   ]
 }
