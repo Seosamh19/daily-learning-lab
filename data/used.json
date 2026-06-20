@@ -22,7 +22,8 @@
     "George Gordon, Lord Byron|Lines Written in an Album, at Malta",
     "Emily Dickinson|Summer laid her simple Hat",
     "Robert Burns|79. Adam Armour\u2019s Prayer",
-    "Geoffrey Chaucer|The Canterbury Tales. The Doctor's Tale."
+    "Geoffrey Chaucer|The Canterbury Tales. The Doctor's Tale.",
+    "John Wilmot|A Letter from Artemesia in the Town to Chloe in the Country"
   ],
   "artworks": [
     "156461",
@@ -46,7 +47,8 @@
     "19456",
     "90446",
     "78547",
-    "159096"
+    "159096",
+    "185760"
   ],
   "essays": [
     "essay-003",
@@ -71,7 +73,8 @@
     "essay-025",
     "essay-016",
     "essay-022",
-    "essay-004"
+    "essay-004",
+    "essay-017"
   ],
   "stories": [
     "story-015",
@@ -96,7 +99,8 @@
     "story-017",
     "story-025",
     "story-010",
-    "story-024"
+    "story-024",
+    "story-014"
   ],
   "life_lessons": [
     "lesson-010",
@@ -121,6 +125,7 @@
     "lesson-007",
     "lesson-016",
     "lesson-006",
-    "lesson-017"
+    "lesson-017",
+    "lesson-015"
   ]
 }
