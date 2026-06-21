@@ -23,7 +23,8 @@
     "Emily Dickinson|Summer laid her simple Hat",
     "Robert Burns|79. Adam Armour\u2019s Prayer",
     "Geoffrey Chaucer|The Canterbury Tales. The Doctor's Tale.",
-    "John Wilmot|A Letter from Artemesia in the Town to Chloe in the Country"
+    "John Wilmot|A Letter from Artemesia in the Town to Chloe in the Country",
+    "Alexander Pope|Two Choruses to the Tragedy of Brutus."
   ],
   "artworks": [
     "156461",
@@ -48,7 +49,8 @@
     "90446",
     "78547",
     "159096",
-    "185760"
+    "185760",
+    "59656"
   ],
   "essays": [
     "essay-003",
@@ -74,7 +76,8 @@
     "essay-016",
     "essay-022",
     "essay-004",
-    "essay-017"
+    "essay-017",
+    "essay-006"
   ],
   "stories": [
     "story-015",
@@ -100,7 +103,8 @@
     "story-025",
     "story-010",
     "story-024",
-    "story-014"
+    "story-014",
+    "story-007"
   ],
   "life_lessons": [
     "lesson-010",
@@ -126,6 +130,7 @@
     "lesson-016",
     "lesson-006",
     "lesson-017",
-    "lesson-015"
+    "lesson-015",
+    "lesson-019"
   ]
 }
