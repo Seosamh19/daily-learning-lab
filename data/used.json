@@ -25,7 +25,8 @@
     "Geoffrey Chaucer|The Canterbury Tales. The Doctor's Tale.",
     "John Wilmot|A Letter from Artemesia in the Town to Chloe in the Country",
     "Alexander Pope|Two Choruses to the Tragedy of Brutus.",
-    "Lord Alfred Tennyson|The Progress of Spring"
+    "Lord Alfred Tennyson|The Progress of Spring",
+    "Percy Bysshe Shelley|Homer's Hymn to Venus"
   ],
   "artworks": [
     "156461",
@@ -52,15 +53,19 @@
     "159096",
     "185760",
     "59656",
-    "274216"
+    "274216",
+    "189116"
   ],
   "essays": [
-    "essay-006"
+    "essay-006",
+    "essay-010"
   ],
   "stories": [
-    "story-011"
+    "story-011",
+    "story-007"
   ],
   "life_lessons": [
-    "lesson-004"
+    "lesson-004",
+    "lesson-010"
   ]
 }
