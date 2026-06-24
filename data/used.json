@@ -26,7 +26,8 @@
     "John Wilmot|A Letter from Artemesia in the Town to Chloe in the Country",
     "Alexander Pope|Two Choruses to the Tragedy of Brutus.",
     "Lord Alfred Tennyson|The Progress of Spring",
-    "Percy Bysshe Shelley|Homer's Hymn to Venus"
+    "Percy Bysshe Shelley|Homer's Hymn to Venus",
+    "George Gordon, Lord Byron|Stanzas Written in Passing the Ambracian Gulf"
   ],
   "artworks": [
     "156461",
@@ -54,18 +55,22 @@
     "185760",
     "59656",
     "274216",
-    "189116"
+    "189116",
+    "46271"
   ],
   "essays": [
     "essay-006",
-    "essay-010"
+    "essay-010",
+    "essay-022"
   ],
   "stories": [
     "story-011",
-    "story-007"
+    "story-007",
+    "story-015"
   ],
   "life_lessons": [
     "lesson-004",
-    "lesson-010"
+    "lesson-010",
+    "lesson-015"
   ]
 }
