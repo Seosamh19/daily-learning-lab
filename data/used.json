@@ -27,7 +27,8 @@
     "Alexander Pope|Two Choruses to the Tragedy of Brutus.",
     "Lord Alfred Tennyson|The Progress of Spring",
     "Percy Bysshe Shelley|Homer's Hymn to Venus",
-    "George Gordon, Lord Byron|Stanzas Written in Passing the Ambracian Gulf"
+    "George Gordon, Lord Byron|Stanzas Written in Passing the Ambracian Gulf",
+    "Percy Bysshe Shelley|To --"
   ],
   "artworks": [
     "156461",
@@ -56,21 +57,25 @@
     "59656",
     "274216",
     "189116",
-    "46271"
+    "46271",
+    "117475"
   ],
   "essays": [
     "essay-006",
     "essay-010",
-    "essay-022"
+    "essay-022",
+    "essay-023"
   ],
   "stories": [
     "story-011",
     "story-007",
-    "story-015"
+    "story-015",
+    "story-016"
   ],
   "life_lessons": [
     "lesson-004",
     "lesson-010",
-    "lesson-015"
+    "lesson-015",
+    "lesson-014"
   ]
 }
