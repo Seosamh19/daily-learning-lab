@@ -28,7 +28,8 @@
     "Lord Alfred Tennyson|The Progress of Spring",
     "Percy Bysshe Shelley|Homer's Hymn to Venus",
     "George Gordon, Lord Byron|Stanzas Written in Passing the Ambracian Gulf",
-    "Percy Bysshe Shelley|To --"
+    "Percy Bysshe Shelley|To --",
+    "John Dryden|Mac Flecknoe"
   ],
   "artworks": [
     "156461",
@@ -58,24 +59,28 @@
     "274216",
     "189116",
     "46271",
-    "117475"
+    "117475",
+    "230692"
   ],
   "essays": [
     "essay-006",
     "essay-010",
     "essay-022",
-    "essay-023"
+    "essay-023",
+    "essay-019"
   ],
   "stories": [
     "story-011",
     "story-007",
     "story-015",
-    "story-016"
+    "story-016",
+    "story-012"
   ],
   "life_lessons": [
     "lesson-004",
     "lesson-010",
     "lesson-015",
-    "lesson-014"
+    "lesson-014",
+    "lesson-011"
   ]
 }
