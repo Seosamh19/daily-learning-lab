@@ -29,7 +29,8 @@
     "Percy Bysshe Shelley|Homer's Hymn to Venus",
     "George Gordon, Lord Byron|Stanzas Written in Passing the Ambracian Gulf",
     "Percy Bysshe Shelley|To --",
-    "John Dryden|Mac Flecknoe"
+    "John Dryden|Mac Flecknoe",
+    "John Milton|Paradise Lost: Book 08"
   ],
   "artworks": [
     "156461",
@@ -60,27 +61,31 @@
     "189116",
     "46271",
     "117475",
-    "230692"
+    "230692",
+    "222984"
   ],
   "essays": [
     "essay-006",
     "essay-010",
     "essay-022",
     "essay-023",
-    "essay-019"
+    "essay-019",
+    "essay-018"
   ],
   "stories": [
     "story-011",
     "story-007",
     "story-015",
     "story-016",
-    "story-012"
+    "story-012",
+    "story-025"
   ],
   "life_lessons": [
     "lesson-004",
     "lesson-010",
     "lesson-015",
     "lesson-014",
-    "lesson-011"
+    "lesson-011",
+    "lesson-023"
   ]
 }
