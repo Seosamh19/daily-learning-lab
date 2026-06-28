@@ -30,7 +30,8 @@
     "George Gordon, Lord Byron|Stanzas Written in Passing the Ambracian Gulf",
     "Percy Bysshe Shelley|To --",
     "John Dryden|Mac Flecknoe",
-    "John Milton|Paradise Lost: Book 08"
+    "John Milton|Paradise Lost: Book 08",
+    "William Cowper|The Christian"
   ],
   "artworks": [
     "156461",
@@ -62,7 +63,8 @@
     "46271",
     "117475",
     "230692",
-    "222984"
+    "222984",
+    "202944"
   ],
   "essays": [
     "essay-006",
@@ -70,7 +72,8 @@
     "essay-022",
     "essay-023",
     "essay-019",
-    "essay-018"
+    "essay-018",
+    "essay-014"
   ],
   "stories": [
     "story-011",
@@ -78,7 +81,8 @@
     "story-015",
     "story-016",
     "story-012",
-    "story-025"
+    "story-025",
+    "story-003"
   ],
   "life_lessons": [
     "lesson-004",
@@ -86,6 +90,7 @@
     "lesson-015",
     "lesson-014",
     "lesson-011",
-    "lesson-023"
+    "lesson-023",
+    "lesson-021"
   ]
 }
