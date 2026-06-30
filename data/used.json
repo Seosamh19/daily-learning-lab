@@ -32,7 +32,8 @@
     "John Dryden|Mac Flecknoe",
     "John Milton|Paradise Lost: Book 08",
     "William Cowper|The Christian",
-    "Edward Thomas|The Path"
+    "Edward Thomas|The Path",
+    "George Gordon, Lord Byron|Manfred: A Dramatic Poem"
   ],
   "artworks": [
     "156461",
@@ -66,7 +67,8 @@
     "230692",
     "222984",
     "202944",
-    "109173"
+    "109173",
+    "4183"
   ],
   "essays": [
     "essay-006",
@@ -76,7 +78,8 @@
     "essay-019",
     "essay-018",
     "essay-014",
-    "essay-007"
+    "essay-007",
+    "essay-002"
   ],
   "stories": [
     "story-011",
@@ -86,7 +89,8 @@
     "story-012",
     "story-025",
     "story-003",
-    "story-023"
+    "story-023",
+    "story-019"
   ],
   "life_lessons": [
     "lesson-004",
@@ -96,6 +100,7 @@
     "lesson-011",
     "lesson-023",
     "lesson-021",
-    "lesson-013"
+    "lesson-013",
+    "lesson-017"
   ]
 }
