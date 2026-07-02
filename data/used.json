@@ -34,7 +34,8 @@
     "William Cowper|The Christian",
     "Edward Thomas|The Path",
     "George Gordon, Lord Byron|Manfred: A Dramatic Poem",
-    "Alexander Pope|Epitaph. Intended for Mr Rowe, in Westminster Abbey."
+    "Alexander Pope|Epitaph. Intended for Mr Rowe, in Westminster Abbey.",
+    "William Blake|A LITTLE GIRL LOST"
   ],
   "artworks": [
     "156461",
@@ -70,7 +71,8 @@
     "202944",
     "109173",
     "4183",
-    "150868"
+    "150868",
+    "150054"
   ],
   "essays": [
     "essay-006",
@@ -82,7 +84,8 @@
     "essay-014",
     "essay-007",
     "essay-002",
-    "essay-004"
+    "essay-004",
+    "essay-009"
   ],
   "stories": [
     "story-011",
@@ -94,7 +97,8 @@
     "story-003",
     "story-023",
     "story-019",
-    "story-013"
+    "story-013",
+    "story-006"
   ],
   "life_lessons": [
     "lesson-004",
@@ -106,6 +110,7 @@
     "lesson-021",
     "lesson-013",
     "lesson-017",
-    "lesson-019"
+    "lesson-019",
+    "lesson-012"
   ]
 }
