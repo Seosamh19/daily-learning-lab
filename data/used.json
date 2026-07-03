@@ -35,7 +35,8 @@
     "Edward Thomas|The Path",
     "George Gordon, Lord Byron|Manfred: A Dramatic Poem",
     "Alexander Pope|Epitaph. Intended for Mr Rowe, in Westminster Abbey.",
-    "William Blake|A LITTLE GIRL LOST"
+    "William Blake|A LITTLE GIRL LOST",
+    "Geoffrey Chaucer|The Canterbury Tales. The Reeve's Tale."
   ],
   "artworks": [
     "156461",
@@ -72,7 +73,8 @@
     "109173",
     "4183",
     "150868",
-    "150054"
+    "150054",
+    "69036"
   ],
   "essays": [
     "essay-006",
@@ -85,7 +87,8 @@
     "essay-007",
     "essay-002",
     "essay-004",
-    "essay-009"
+    "essay-009",
+    "essay-017"
   ],
   "stories": [
     "story-011",
@@ -98,7 +101,8 @@
     "story-023",
     "story-019",
     "story-013",
-    "story-006"
+    "story-006",
+    "story-005"
   ],
   "life_lessons": [
     "lesson-004",
@@ -111,6 +115,7 @@
     "lesson-013",
     "lesson-017",
     "lesson-019",
-    "lesson-012"
+    "lesson-012",
+    "lesson-008"
   ]
 }
