@@ -36,7 +36,8 @@
     "George Gordon, Lord Byron|Manfred: A Dramatic Poem",
     "Alexander Pope|Epitaph. Intended for Mr Rowe, in Westminster Abbey.",
     "William Blake|A LITTLE GIRL LOST",
-    "Geoffrey Chaucer|The Canterbury Tales. The Reeve's Tale."
+    "Geoffrey Chaucer|The Canterbury Tales. The Reeve's Tale.",
+    "George Gordon, Lord Byron|The Vision of Judgment.  by Quevedo Redivivus"
   ],
   "artworks": [
     "156461",
@@ -74,7 +75,8 @@
     "4183",
     "150868",
     "150054",
-    "69036"
+    "69036",
+    "130622"
   ],
   "essays": [
     "essay-006",
@@ -88,7 +90,8 @@
     "essay-002",
     "essay-004",
     "essay-009",
-    "essay-017"
+    "essay-017",
+    "essay-016"
   ],
   "stories": [
     "story-011",
@@ -102,7 +105,8 @@
     "story-019",
     "story-013",
     "story-006",
-    "story-005"
+    "story-005",
+    "story-001"
   ],
   "life_lessons": [
     "lesson-004",
@@ -116,6 +120,7 @@
     "lesson-017",
     "lesson-019",
     "lesson-012",
-    "lesson-008"
+    "lesson-008",
+    "lesson-003"
   ]
 }
