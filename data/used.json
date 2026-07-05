@@ -37,7 +37,8 @@
     "Alexander Pope|Epitaph. Intended for Mr Rowe, in Westminster Abbey.",
     "William Blake|A LITTLE GIRL LOST",
     "Geoffrey Chaucer|The Canterbury Tales. The Reeve's Tale.",
-    "George Gordon, Lord Byron|The Vision of Judgment.  by Quevedo Redivivus"
+    "George Gordon, Lord Byron|The Vision of Judgment.  by Quevedo Redivivus",
+    "George Gordon, Lord Byron|Stanzas to Jessy"
   ],
   "artworks": [
     "156461",
@@ -76,7 +77,8 @@
     "150868",
     "150054",
     "69036",
-    "130622"
+    "130622",
+    "145903"
   ],
   "essays": [
     "essay-006",
@@ -91,7 +93,8 @@
     "essay-004",
     "essay-009",
     "essay-017",
-    "essay-016"
+    "essay-016",
+    "essay-025"
   ],
   "stories": [
     "story-011",
@@ -106,7 +109,8 @@
     "story-013",
     "story-006",
     "story-005",
-    "story-001"
+    "story-001",
+    "story-022"
   ],
   "life_lessons": [
     "lesson-004",
@@ -121,6 +125,7 @@
     "lesson-019",
     "lesson-012",
     "lesson-008",
-    "lesson-003"
+    "lesson-003",
+    "lesson-024"
   ]
 }
