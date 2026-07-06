@@ -38,7 +38,8 @@
     "William Blake|A LITTLE GIRL LOST",
     "Geoffrey Chaucer|The Canterbury Tales. The Reeve's Tale.",
     "George Gordon, Lord Byron|The Vision of Judgment.  by Quevedo Redivivus",
-    "George Gordon, Lord Byron|Stanzas to Jessy"
+    "George Gordon, Lord Byron|Stanzas to Jessy",
+    "Andrew Marvell|The Picture Of Little T.C. In A Prospect Of Flowers"
   ],
   "artworks": [
     "156461",
@@ -78,7 +79,8 @@
     "150054",
     "69036",
     "130622",
-    "145903"
+    "145903",
+    "152740"
   ],
   "essays": [
     "essay-006",
@@ -94,7 +96,8 @@
     "essay-009",
     "essay-017",
     "essay-016",
-    "essay-025"
+    "essay-025",
+    "essay-020"
   ],
   "stories": [
     "story-011",
@@ -110,7 +113,8 @@
     "story-006",
     "story-005",
     "story-001",
-    "story-022"
+    "story-022",
+    "story-002"
   ],
   "life_lessons": [
     "lesson-004",
@@ -126,6 +130,7 @@
     "lesson-012",
     "lesson-008",
     "lesson-003",
-    "lesson-024"
+    "lesson-024",
+    "lesson-009"
   ]
 }
