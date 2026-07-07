@@ -39,7 +39,8 @@
     "Geoffrey Chaucer|The Canterbury Tales. The Reeve's Tale.",
     "George Gordon, Lord Byron|The Vision of Judgment.  by Quevedo Redivivus",
     "George Gordon, Lord Byron|Stanzas to Jessy",
-    "Andrew Marvell|The Picture Of Little T.C. In A Prospect Of Flowers"
+    "Andrew Marvell|The Picture Of Little T.C. In A Prospect Of Flowers",
+    "George Gordon, Lord Byron|Sardanapalus"
   ],
   "artworks": [
     "156461",
@@ -80,7 +81,8 @@
     "69036",
     "130622",
     "145903",
-    "152740"
+    "152740",
+    "35184"
   ],
   "essays": [
     "essay-006",
@@ -97,7 +99,8 @@
     "essay-017",
     "essay-016",
     "essay-025",
-    "essay-020"
+    "essay-020",
+    "essay-008"
   ],
   "stories": [
     "story-011",
@@ -114,7 +117,8 @@
     "story-005",
     "story-001",
     "story-022",
-    "story-002"
+    "story-002",
+    "story-017"
   ],
   "life_lessons": [
     "lesson-004",
@@ -131,6 +135,7 @@
     "lesson-008",
     "lesson-003",
     "lesson-024",
-    "lesson-009"
+    "lesson-009",
+    "lesson-018"
   ]
 }
