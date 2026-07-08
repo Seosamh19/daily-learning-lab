@@ -40,7 +40,8 @@
     "George Gordon, Lord Byron|The Vision of Judgment.  by Quevedo Redivivus",
     "George Gordon, Lord Byron|Stanzas to Jessy",
     "Andrew Marvell|The Picture Of Little T.C. In A Prospect Of Flowers",
-    "George Gordon, Lord Byron|Sardanapalus"
+    "George Gordon, Lord Byron|Sardanapalus",
+    "Emily Dickinson|A Drop Fell on the Apple Tree --"
   ],
   "artworks": [
     "156461",
@@ -82,7 +83,8 @@
     "130622",
     "145903",
     "152740",
-    "35184"
+    "35184",
+    "105549"
   ],
   "essays": [
     "essay-006",
@@ -100,7 +102,8 @@
     "essay-016",
     "essay-025",
     "essay-020",
-    "essay-008"
+    "essay-008",
+    "essay-001"
   ],
   "stories": [
     "story-011",
@@ -118,7 +121,8 @@
     "story-001",
     "story-022",
     "story-002",
-    "story-017"
+    "story-017",
+    "story-020"
   ],
   "life_lessons": [
     "lesson-004",
@@ -136,6 +140,7 @@
     "lesson-003",
     "lesson-024",
     "lesson-009",
-    "lesson-018"
+    "lesson-018",
+    "lesson-007"
   ]
 }
