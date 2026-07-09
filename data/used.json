@@ -84,7 +84,8 @@
     "145903",
     "152740",
     "35184",
-    "105549"
+    "105549",
+    "99653"
   ],
   "essays": [
     "essay-006",
@@ -103,7 +104,8 @@
     "essay-025",
     "essay-020",
     "essay-008",
-    "essay-001"
+    "essay-001",
+    "essay-011"
   ],
   "stories": [
     "story-011",
@@ -122,7 +124,8 @@
     "story-022",
     "story-002",
     "story-017",
-    "story-020"
+    "story-020",
+    "story-009"
   ],
   "life_lessons": [
     "lesson-004",
@@ -141,6 +144,7 @@
     "lesson-024",
     "lesson-009",
     "lesson-018",
-    "lesson-007"
+    "lesson-007",
+    "lesson-006"
   ]
 }
