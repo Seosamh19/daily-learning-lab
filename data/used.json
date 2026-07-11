@@ -42,7 +42,8 @@
     "Andrew Marvell|The Picture Of Little T.C. In A Prospect Of Flowers",
     "George Gordon, Lord Byron|Sardanapalus",
     "Emily Dickinson|A Drop Fell on the Apple Tree --",
-    "Algernon Charles Swinburne|To Walt Whitman In America"
+    "Algernon Charles Swinburne|To Walt Whitman In America",
+    "Geoffrey Chaucer|Troilus and Criseyde: Book IV"
   ],
   "artworks": [
     "156461",
@@ -87,7 +88,8 @@
     "35184",
     "105549",
     "99653",
-    "251152"
+    "251152",
+    "24042"
   ],
   "essays": [
     "essay-006",
@@ -108,7 +110,8 @@
     "essay-008",
     "essay-001",
     "essay-011",
-    "essay-021"
+    "essay-021",
+    "essay-015"
   ],
   "stories": [
     "story-011",
@@ -129,7 +132,8 @@
     "story-017",
     "story-020",
     "story-009",
-    "story-010"
+    "story-010",
+    "story-004"
   ],
   "life_lessons": [
     "lesson-004",
@@ -150,6 +154,7 @@
     "lesson-018",
     "lesson-007",
     "lesson-006",
-    "lesson-005"
+    "lesson-005",
+    "lesson-022"
   ]
 }
