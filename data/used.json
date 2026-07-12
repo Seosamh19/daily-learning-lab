@@ -43,7 +43,8 @@
     "George Gordon, Lord Byron|Sardanapalus",
     "Emily Dickinson|A Drop Fell on the Apple Tree --",
     "Algernon Charles Swinburne|To Walt Whitman In America",
-    "Geoffrey Chaucer|Troilus and Criseyde: Book IV"
+    "Geoffrey Chaucer|Troilus and Criseyde: Book IV",
+    "Charlotte Smith|Sonnet XLIV: Press'd by the Moon"
   ],
   "artworks": [
     "156461",
@@ -89,7 +90,8 @@
     "105549",
     "99653",
     "251152",
-    "24042"
+    "24042",
+    "3609"
   ],
   "essays": [
     "essay-006",
@@ -111,7 +113,8 @@
     "essay-001",
     "essay-011",
     "essay-021",
-    "essay-015"
+    "essay-015",
+    "essay-013"
   ],
   "stories": [
     "story-011",
@@ -133,7 +136,8 @@
     "story-020",
     "story-009",
     "story-010",
-    "story-004"
+    "story-004",
+    "story-021"
   ],
   "life_lessons": [
     "lesson-004",
@@ -155,6 +159,7 @@
     "lesson-007",
     "lesson-006",
     "lesson-005",
-    "lesson-022"
+    "lesson-022",
+    "lesson-001"
   ]
 }
