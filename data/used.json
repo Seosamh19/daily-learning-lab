@@ -47,7 +47,8 @@
     "Charlotte Smith|Sonnet XLIV: Press'd by the Moon",
     "George Gordon, Lord Byron|The Age of Bronze",
     "Percy Bysshe Shelley|Adonais",
-    "George Gordon, Lord Byron|Lara. "
+    "George Gordon, Lord Byron|Lara. ",
+    "George Gordon, Lord Byron|To Dives. a Fragment"
   ],
   "artworks": [
     "156461",
@@ -97,7 +98,8 @@
     "3609",
     "12725",
     "265982",
-    "62271"
+    "62271",
+    "9516"
   ],
   "essays": [
     "essay-006",
@@ -123,7 +125,8 @@
     "essay-013",
     "essay-012",
     "essay-024",
-    "essay-005"
+    "essay-005",
+    "essay-003"
   ],
   "stories": [
     "story-011",
@@ -149,7 +152,8 @@
     "story-021",
     "story-024",
     "story-018",
-    "story-014"
+    "story-014",
+    "story-008"
   ],
   "life_lessons": [
     "lesson-004",
@@ -175,6 +179,7 @@
     "lesson-001",
     "lesson-025",
     "lesson-016",
-    "lesson-002"
+    "lesson-002",
+    "lesson-020"
   ]
 }
