@@ -49,7 +49,8 @@
     "Percy Bysshe Shelley|Adonais",
     "George Gordon, Lord Byron|Lara. ",
     "George Gordon, Lord Byron|To Dives. a Fragment",
-    "Robert Browning|Prospice"
+    "Robert Browning|Prospice",
+    "Alexander Pope|Epistle to James Craggs, Esq., Secretary of State."
   ],
   "artworks": [
     "156461",
@@ -102,18 +103,22 @@
     "62271",
     "9516",
     "131335",
-    "145272"
+    "145272",
+    "83905"
   ],
   "essays": [
     "essay-008",
-    "essay-010"
+    "essay-010",
+    "essay-021"
   ],
   "stories": [
     "story-016",
-    "story-005"
+    "story-005",
+    "story-003"
   ],
   "life_lessons": [
     "lesson-002",
-    "lesson-016"
+    "lesson-016",
+    "lesson-003"
   ]
 }
