@@ -50,7 +50,8 @@
     "George Gordon, Lord Byron|Lara. ",
     "George Gordon, Lord Byron|To Dives. a Fragment",
     "Robert Browning|Prospice",
-    "Alexander Pope|Epistle to James Craggs, Esq., Secretary of State."
+    "Alexander Pope|Epistle to James Craggs, Esq., Secretary of State.",
+    "Percy Bysshe Shelley|To Death"
   ],
   "artworks": [
     "156461",
@@ -104,21 +105,25 @@
     "9516",
     "131335",
     "145272",
-    "83905"
+    "83905",
+    "65814"
   ],
   "essays": [
     "essay-008",
     "essay-010",
-    "essay-021"
+    "essay-021",
+    "essay-007"
   ],
   "stories": [
     "story-016",
     "story-005",
-    "story-003"
+    "story-003",
+    "story-001"
   ],
   "life_lessons": [
     "lesson-002",
     "lesson-016",
-    "lesson-003"
+    "lesson-003",
+    "lesson-007"
   ]
 }
