@@ -51,7 +51,8 @@
     "George Gordon, Lord Byron|To Dives. a Fragment",
     "Robert Browning|Prospice",
     "Alexander Pope|Epistle to James Craggs, Esq., Secretary of State.",
-    "Percy Bysshe Shelley|To Death"
+    "Percy Bysshe Shelley|To Death",
+    "Samuel Coleridge|A Soliloquy Of The Full Moon, She Being In A Mad Passion"
   ],
   "artworks": [
     "156461",
@@ -106,24 +107,28 @@
     "131335",
     "145272",
     "83905",
-    "65814"
+    "65814",
+    "54465"
   ],
   "essays": [
     "essay-008",
     "essay-010",
     "essay-021",
-    "essay-007"
+    "essay-007",
+    "essay-015"
   ],
   "stories": [
     "story-016",
     "story-005",
     "story-003",
-    "story-001"
+    "story-001",
+    "story-017"
   ],
   "life_lessons": [
     "lesson-002",
     "lesson-016",
     "lesson-003",
-    "lesson-007"
+    "lesson-007",
+    "lesson-019"
   ]
 }
