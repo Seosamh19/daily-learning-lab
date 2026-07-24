@@ -53,7 +53,8 @@
     "Alexander Pope|Epistle to James Craggs, Esq., Secretary of State.",
     "Percy Bysshe Shelley|To Death",
     "Samuel Coleridge|A Soliloquy Of The Full Moon, She Being In A Mad Passion",
-    "Lord Alfred Tennyson|In Memoriam 82: I Wage Not Any Feud With Death"
+    "Lord Alfred Tennyson|In Memoriam 82: I Wage Not Any Feud With Death",
+    "Rupert Brooke|There's Wisdom In Women"
   ],
   "artworks": [
     "156461",
@@ -111,7 +112,8 @@
     "65814",
     "54465",
     "63032",
-    "34149"
+    "34149",
+    "14323"
   ],
   "essays": [
     "essay-008",
@@ -120,7 +122,8 @@
     "essay-007",
     "essay-015",
     "essay-019",
-    "essay-013"
+    "essay-013",
+    "essay-009"
   ],
   "stories": [
     "story-016",
@@ -129,7 +132,8 @@
     "story-001",
     "story-017",
     "story-014",
-    "story-012"
+    "story-012",
+    "story-008"
   ],
   "life_lessons": [
     "lesson-002",
@@ -138,6 +142,7 @@
     "lesson-007",
     "lesson-019",
     "lesson-017",
-    "lesson-011"
+    "lesson-011",
+    "lesson-001"
   ]
 }
