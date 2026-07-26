@@ -55,7 +55,8 @@
     "Samuel Coleridge|A Soliloquy Of The Full Moon, She Being In A Mad Passion",
     "Lord Alfred Tennyson|In Memoriam 82: I Wage Not Any Feud With Death",
     "Rupert Brooke|There's Wisdom In Women",
-    "Lord Alfred Tennyson|Demeter And Persephone"
+    "Lord Alfred Tennyson|Demeter And Persephone",
+    "William Blake|The Book of Thel. Part I"
   ],
   "artworks": [
     "156461",
@@ -115,7 +116,8 @@
     "63032",
     "34149",
     "14323",
-    "34116"
+    "34116",
+    "113092"
   ],
   "essays": [
     "essay-008",
@@ -126,7 +128,8 @@
     "essay-019",
     "essay-013",
     "essay-009",
-    "essay-011"
+    "essay-011",
+    "essay-016"
   ],
   "stories": [
     "story-016",
@@ -137,7 +140,8 @@
     "story-014",
     "story-012",
     "story-008",
-    "story-015"
+    "story-015",
+    "story-025"
   ],
   "life_lessons": [
     "lesson-002",
@@ -148,6 +152,7 @@
     "lesson-017",
     "lesson-011",
     "lesson-001",
-    "lesson-008"
+    "lesson-008",
+    "lesson-024"
   ]
 }
