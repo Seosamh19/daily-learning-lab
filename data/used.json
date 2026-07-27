@@ -56,7 +56,8 @@
     "Lord Alfred Tennyson|In Memoriam 82: I Wage Not Any Feud With Death",
     "Rupert Brooke|There's Wisdom In Women",
     "Lord Alfred Tennyson|Demeter And Persephone",
-    "William Blake|The Book of Thel. Part I"
+    "William Blake|The Book of Thel. Part I",
+    "Alexander Pope|To Mr C., St James's Place."
   ],
   "artworks": [
     "156461",
@@ -117,7 +118,8 @@
     "34149",
     "14323",
     "34116",
-    "113092"
+    "113092",
+    "128186"
   ],
   "essays": [
     "essay-008",
@@ -129,7 +131,8 @@
     "essay-013",
     "essay-009",
     "essay-011",
-    "essay-016"
+    "essay-016",
+    "essay-014"
   ],
   "stories": [
     "story-016",
@@ -141,7 +144,8 @@
     "story-012",
     "story-008",
     "story-015",
-    "story-025"
+    "story-025",
+    "story-007"
   ],
   "life_lessons": [
     "lesson-002",
@@ -153,6 +157,7 @@
     "lesson-011",
     "lesson-001",
     "lesson-008",
-    "lesson-024"
+    "lesson-024",
+    "lesson-020"
   ]
 }
