@@ -57,7 +57,8 @@
     "Rupert Brooke|There's Wisdom In Women",
     "Lord Alfred Tennyson|Demeter And Persephone",
     "William Blake|The Book of Thel. Part I",
-    "Alexander Pope|To Mr C., St James's Place."
+    "Alexander Pope|To Mr C., St James's Place.",
+    "Robinson|Sonnet. Inscribed to Her Grace the Duchess of Devonshire"
   ],
   "artworks": [
     "156461",
@@ -119,7 +120,8 @@
     "14323",
     "34116",
     "113092",
-    "128186"
+    "128186",
+    "127984"
   ],
   "essays": [
     "essay-008",
@@ -132,7 +134,8 @@
     "essay-009",
     "essay-011",
     "essay-016",
-    "essay-014"
+    "essay-014",
+    "essay-002"
   ],
   "stories": [
     "story-016",
@@ -145,7 +148,8 @@
     "story-008",
     "story-015",
     "story-025",
-    "story-007"
+    "story-007",
+    "story-023"
   ],
   "life_lessons": [
     "lesson-002",
@@ -158,6 +162,7 @@
     "lesson-001",
     "lesson-008",
     "lesson-024",
-    "lesson-020"
+    "lesson-020",
+    "lesson-023"
   ]
 }
