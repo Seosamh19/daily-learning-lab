@@ -58,7 +58,8 @@
     "Lord Alfred Tennyson|Demeter And Persephone",
     "William Blake|The Book of Thel. Part I",
     "Alexander Pope|To Mr C., St James's Place.",
-    "Robinson|Sonnet. Inscribed to Her Grace the Duchess of Devonshire"
+    "Robinson|Sonnet. Inscribed to Her Grace the Duchess of Devonshire",
+    "George Gordon, Lord Byron|Cain: A Mystery"
   ],
   "artworks": [
     "156461",
@@ -121,7 +122,8 @@
     "34116",
     "113092",
     "128186",
-    "127984"
+    "127984",
+    "54482"
   ],
   "essays": [
     "essay-008",
@@ -135,7 +137,8 @@
     "essay-011",
     "essay-016",
     "essay-014",
-    "essay-002"
+    "essay-002",
+    "essay-003"
   ],
   "stories": [
     "story-016",
@@ -149,7 +152,8 @@
     "story-015",
     "story-025",
     "story-007",
-    "story-023"
+    "story-023",
+    "story-022"
   ],
   "life_lessons": [
     "lesson-002",
@@ -163,6 +167,7 @@
     "lesson-008",
     "lesson-024",
     "lesson-020",
-    "lesson-023"
+    "lesson-023",
+    "lesson-005"
   ]
 }
