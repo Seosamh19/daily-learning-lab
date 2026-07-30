@@ -59,7 +59,8 @@
     "William Blake|The Book of Thel. Part I",
     "Alexander Pope|To Mr C., St James's Place.",
     "Robinson|Sonnet. Inscribed to Her Grace the Duchess of Devonshire",
-    "George Gordon, Lord Byron|Cain: A Mystery"
+    "George Gordon, Lord Byron|Cain: A Mystery",
+    "William Lisle Bowles|On the Funeral of Charles the First"
   ],
   "artworks": [
     "156461",
@@ -123,7 +124,8 @@
     "113092",
     "128186",
     "127984",
-    "54482"
+    "54482",
+    "286552"
   ],
   "essays": [
     "essay-008",
@@ -138,7 +140,8 @@
     "essay-016",
     "essay-014",
     "essay-002",
-    "essay-003"
+    "essay-003",
+    "essay-012"
   ],
   "stories": [
     "story-016",
@@ -153,7 +156,8 @@
     "story-025",
     "story-007",
     "story-023",
-    "story-022"
+    "story-022",
+    "story-006"
   ],
   "life_lessons": [
     "lesson-002",
@@ -168,6 +172,7 @@
     "lesson-024",
     "lesson-020",
     "lesson-023",
-    "lesson-005"
+    "lesson-005",
+    "lesson-004"
   ]
 }
