@@ -60,7 +60,8 @@
     "Alexander Pope|To Mr C., St James's Place.",
     "Robinson|Sonnet. Inscribed to Her Grace the Duchess of Devonshire",
     "George Gordon, Lord Byron|Cain: A Mystery",
-    "William Lisle Bowles|On the Funeral of Charles the First"
+    "William Lisle Bowles|On the Funeral of Charles the First",
+    "George Gordon, Lord Byron|The Prophecy of Dante"
   ],
   "artworks": [
     "156461",
@@ -126,7 +127,8 @@
     "127984",
     "54482",
     "286552",
-    "226581"
+    "226581",
+    "81539"
   ],
   "essays": [
     "essay-008",
@@ -143,7 +145,8 @@
     "essay-002",
     "essay-003",
     "essay-012",
-    "essay-005"
+    "essay-005",
+    "essay-023"
   ],
   "stories": [
     "story-016",
@@ -160,7 +163,8 @@
     "story-023",
     "story-022",
     "story-006",
-    "story-013"
+    "story-013",
+    "story-019"
   ],
   "life_lessons": [
     "lesson-002",
@@ -177,6 +181,7 @@
     "lesson-023",
     "lesson-005",
     "lesson-004",
-    "lesson-018"
+    "lesson-018",
+    "lesson-010"
   ]
 }
