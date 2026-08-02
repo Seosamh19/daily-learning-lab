@@ -61,7 +61,8 @@
     "Robinson|Sonnet. Inscribed to Her Grace the Duchess of Devonshire",
     "George Gordon, Lord Byron|Cain: A Mystery",
     "William Lisle Bowles|On the Funeral of Charles the First",
-    "George Gordon, Lord Byron|The Prophecy of Dante"
+    "George Gordon, Lord Byron|The Prophecy of Dante",
+    "Oscar Wilde|Nay, Lord, not thus! white lilies in the spring,"
   ],
   "artworks": [
     "156461",
@@ -128,7 +129,8 @@
     "54482",
     "286552",
     "226581",
-    "81539"
+    "81539",
+    "219759"
   ],
   "essays": [
     "essay-008",
@@ -146,7 +148,8 @@
     "essay-003",
     "essay-012",
     "essay-005",
-    "essay-023"
+    "essay-023",
+    "essay-001"
   ],
   "stories": [
     "story-016",
@@ -164,7 +167,8 @@
     "story-022",
     "story-006",
     "story-013",
-    "story-019"
+    "story-019",
+    "story-009"
   ],
   "life_lessons": [
     "lesson-002",
@@ -182,6 +186,7 @@
     "lesson-005",
     "lesson-004",
     "lesson-018",
-    "lesson-010"
+    "lesson-010",
+    "lesson-014"
   ]
 }
