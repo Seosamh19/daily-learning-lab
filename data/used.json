@@ -62,7 +62,8 @@
     "George Gordon, Lord Byron|Cain: A Mystery",
     "William Lisle Bowles|On the Funeral of Charles the First",
     "George Gordon, Lord Byron|The Prophecy of Dante",
-    "Oscar Wilde|Nay, Lord, not thus! white lilies in the spring,"
+    "Oscar Wilde|Nay, Lord, not thus! white lilies in the spring,",
+    "Percy Bysshe Shelley|Song to the Men of England"
   ],
   "artworks": [
     "156461",
@@ -130,7 +131,8 @@
     "286552",
     "226581",
     "81539",
-    "219759"
+    "219759",
+    "210389"
   ],
   "essays": [
     "essay-008",
@@ -149,7 +151,8 @@
     "essay-012",
     "essay-005",
     "essay-023",
-    "essay-001"
+    "essay-001",
+    "essay-004"
   ],
   "stories": [
     "story-016",
@@ -168,7 +171,8 @@
     "story-006",
     "story-013",
     "story-019",
-    "story-009"
+    "story-009",
+    "story-018"
   ],
   "life_lessons": [
     "lesson-002",
@@ -187,6 +191,7 @@
     "lesson-004",
     "lesson-018",
     "lesson-010",
-    "lesson-014"
+    "lesson-014",
+    "lesson-009"
   ]
 }
