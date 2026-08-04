@@ -63,7 +63,8 @@
     "William Lisle Bowles|On the Funeral of Charles the First",
     "George Gordon, Lord Byron|The Prophecy of Dante",
     "Oscar Wilde|Nay, Lord, not thus! white lilies in the spring,",
-    "Percy Bysshe Shelley|Song to the Men of England"
+    "Percy Bysshe Shelley|Song to the Men of England",
+    "George Gordon, Lord Byron|The Corsair.  "
   ],
   "artworks": [
     "156461",
@@ -132,7 +133,8 @@
     "226581",
     "81539",
     "219759",
-    "210389"
+    "210389",
+    "210105"
   ],
   "essays": [
     "essay-008",
@@ -152,7 +154,8 @@
     "essay-005",
     "essay-023",
     "essay-001",
-    "essay-004"
+    "essay-004",
+    "essay-017"
   ],
   "stories": [
     "story-016",
@@ -172,7 +175,8 @@
     "story-013",
     "story-019",
     "story-009",
-    "story-018"
+    "story-018",
+    "story-021"
   ],
   "life_lessons": [
     "lesson-002",
@@ -192,6 +196,7 @@
     "lesson-018",
     "lesson-010",
     "lesson-014",
-    "lesson-009"
+    "lesson-009",
+    "lesson-006"
   ]
 }
