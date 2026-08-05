@@ -64,7 +64,8 @@
     "George Gordon, Lord Byron|The Prophecy of Dante",
     "Oscar Wilde|Nay, Lord, not thus! white lilies in the spring,",
     "Percy Bysshe Shelley|Song to the Men of England",
-    "George Gordon, Lord Byron|The Corsair.  "
+    "George Gordon, Lord Byron|The Corsair.  ",
+    "Percy Bysshe Shelley|The Daemon of the World"
   ],
   "artworks": [
     "156461",
@@ -134,7 +135,8 @@
     "81539",
     "219759",
     "210389",
-    "210105"
+    "210105",
+    "217398"
   ],
   "essays": [
     "essay-008",
@@ -155,7 +157,8 @@
     "essay-023",
     "essay-001",
     "essay-004",
-    "essay-017"
+    "essay-017",
+    "essay-025"
   ],
   "stories": [
     "story-016",
@@ -176,7 +179,8 @@
     "story-019",
     "story-009",
     "story-018",
-    "story-021"
+    "story-021",
+    "story-010"
   ],
   "life_lessons": [
     "lesson-002",
@@ -197,6 +201,7 @@
     "lesson-010",
     "lesson-014",
     "lesson-009",
-    "lesson-006"
+    "lesson-006",
+    "lesson-015"
   ]
 }
