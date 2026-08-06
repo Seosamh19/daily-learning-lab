@@ -65,7 +65,8 @@
     "Oscar Wilde|Nay, Lord, not thus! white lilies in the spring,",
     "Percy Bysshe Shelley|Song to the Men of England",
     "George Gordon, Lord Byron|The Corsair.  ",
-    "Percy Bysshe Shelley|The Daemon of the World"
+    "Percy Bysshe Shelley|The Daemon of the World",
+    "Robert Browning|The Heretic's Tragedy: A Middle-Age Interlude"
   ],
   "artworks": [
     "156461",
@@ -136,7 +137,8 @@
     "219759",
     "210389",
     "210105",
-    "217398"
+    "217398",
+    "194365"
   ],
   "essays": [
     "essay-008",
@@ -158,7 +160,8 @@
     "essay-001",
     "essay-004",
     "essay-017",
-    "essay-025"
+    "essay-025",
+    "essay-006"
   ],
   "stories": [
     "story-016",
@@ -180,7 +183,8 @@
     "story-009",
     "story-018",
     "story-021",
-    "story-010"
+    "story-010",
+    "story-020"
   ],
   "life_lessons": [
     "lesson-002",
@@ -202,6 +206,7 @@
     "lesson-014",
     "lesson-009",
     "lesson-006",
-    "lesson-015"
+    "lesson-015",
+    "lesson-022"
   ]
 }
