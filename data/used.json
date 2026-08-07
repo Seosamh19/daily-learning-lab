@@ -66,7 +66,8 @@
     "Percy Bysshe Shelley|Song to the Men of England",
     "George Gordon, Lord Byron|The Corsair.  ",
     "Percy Bysshe Shelley|The Daemon of the World",
-    "Robert Browning|The Heretic's Tragedy: A Middle-Age Interlude"
+    "Robert Browning|The Heretic's Tragedy: A Middle-Age Interlude",
+    "William Topaz McGonagall|Beautiful Torquay"
   ],
   "artworks": [
     "156461",
@@ -138,7 +139,8 @@
     "210389",
     "210105",
     "217398",
-    "194365"
+    "194365",
+    "217658"
   ],
   "essays": [
     "essay-008",
@@ -161,7 +163,8 @@
     "essay-004",
     "essay-017",
     "essay-025",
-    "essay-006"
+    "essay-006",
+    "essay-020"
   ],
   "stories": [
     "story-016",
@@ -184,7 +187,8 @@
     "story-018",
     "story-021",
     "story-010",
-    "story-020"
+    "story-020",
+    "story-002"
   ],
   "life_lessons": [
     "lesson-002",
@@ -207,6 +211,7 @@
     "lesson-009",
     "lesson-006",
     "lesson-015",
-    "lesson-022"
+    "lesson-022",
+    "lesson-013"
   ]
 }
