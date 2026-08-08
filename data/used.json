@@ -67,7 +67,8 @@
     "George Gordon, Lord Byron|The Corsair.  ",
     "Percy Bysshe Shelley|The Daemon of the World",
     "Robert Browning|The Heretic's Tragedy: A Middle-Age Interlude",
-    "William Topaz McGonagall|Beautiful Torquay"
+    "William Topaz McGonagall|Beautiful Torquay",
+    "George Gordon, Lord Byron|Fare Thee Well"
   ],
   "artworks": [
     "156461",
@@ -140,7 +141,8 @@
     "210105",
     "217398",
     "194365",
-    "217658"
+    "217658",
+    "54120"
   ],
   "essays": [
     "essay-008",
@@ -164,7 +166,8 @@
     "essay-017",
     "essay-025",
     "essay-006",
-    "essay-020"
+    "essay-020",
+    "essay-022"
   ],
   "stories": [
     "story-016",
@@ -188,7 +191,8 @@
     "story-021",
     "story-010",
     "story-020",
-    "story-002"
+    "story-002",
+    "story-004"
   ],
   "life_lessons": [
     "lesson-002",
@@ -212,6 +216,7 @@
     "lesson-006",
     "lesson-015",
     "lesson-022",
-    "lesson-013"
+    "lesson-013",
+    "lesson-021"
   ]
 }
