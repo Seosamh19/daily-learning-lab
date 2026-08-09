@@ -68,7 +68,8 @@
     "Percy Bysshe Shelley|The Daemon of the World",
     "Robert Browning|The Heretic's Tragedy: A Middle-Age Interlude",
     "William Topaz McGonagall|Beautiful Torquay",
-    "George Gordon, Lord Byron|Fare Thee Well"
+    "George Gordon, Lord Byron|Fare Thee Well",
+    "Rupert Brooke|I. Peace"
   ],
   "artworks": [
     "156461",
@@ -142,7 +143,8 @@
     "217398",
     "194365",
     "217658",
-    "54120"
+    "54120",
+    "111654"
   ],
   "essays": [
     "essay-008",
@@ -167,7 +169,8 @@
     "essay-025",
     "essay-006",
     "essay-020",
-    "essay-022"
+    "essay-022",
+    "essay-018"
   ],
   "stories": [
     "story-016",
@@ -192,7 +195,8 @@
     "story-010",
     "story-020",
     "story-002",
-    "story-004"
+    "story-004",
+    "story-011"
   ],
   "life_lessons": [
     "lesson-002",
@@ -217,6 +221,7 @@
     "lesson-015",
     "lesson-022",
     "lesson-013",
-    "lesson-021"
+    "lesson-021",
+    "lesson-025"
   ]
 }
