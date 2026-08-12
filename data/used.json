@@ -71,7 +71,8 @@
     "George Gordon, Lord Byron|Fare Thee Well",
     "Rupert Brooke|I. Peace",
     "William Shakespeare|Blow, Blow, Thou Winter Wind",
-    "George Gordon, Lord Byron|Farewell! If Ever Fondest Prayer"
+    "George Gordon, Lord Byron|Farewell! If Ever Fondest Prayer",
+    "John Dryden|Religio Laici"
   ],
   "artworks": [
     "156461",
@@ -148,15 +149,19 @@
     "54120",
     "111654",
     "109524",
-    "207144"
+    "207144",
+    "194765"
   ],
   "essays": [
-    "essay-012"
+    "essay-012",
+    "essay-024"
   ],
   "stories": [
-    "story-024"
+    "story-024",
+    "story-009"
   ],
   "life_lessons": [
-    "lesson-017"
+    "lesson-017",
+    "lesson-021"
   ]
 }
