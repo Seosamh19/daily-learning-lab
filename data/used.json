@@ -72,7 +72,8 @@
     "Rupert Brooke|I. Peace",
     "William Shakespeare|Blow, Blow, Thou Winter Wind",
     "George Gordon, Lord Byron|Farewell! If Ever Fondest Prayer",
-    "John Dryden|Religio Laici"
+    "John Dryden|Religio Laici",
+    "Geoffrey Chaucer|The Canterbury Tales. Chaucer's Tale of Sir Thopas."
   ],
   "artworks": [
     "156461",
@@ -150,18 +151,22 @@
     "111654",
     "109524",
     "207144",
-    "194765"
+    "194765",
+    "77522"
   ],
   "essays": [
     "essay-012",
-    "essay-024"
+    "essay-024",
+    "essay-004"
   ],
   "stories": [
     "story-024",
-    "story-009"
+    "story-009",
+    "story-003"
   ],
   "life_lessons": [
     "lesson-017",
-    "lesson-021"
+    "lesson-021",
+    "lesson-010"
   ]
 }
