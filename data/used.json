@@ -73,7 +73,8 @@
     "William Shakespeare|Blow, Blow, Thou Winter Wind",
     "George Gordon, Lord Byron|Farewell! If Ever Fondest Prayer",
     "John Dryden|Religio Laici",
-    "Geoffrey Chaucer|The Canterbury Tales. Chaucer's Tale of Sir Thopas."
+    "Geoffrey Chaucer|The Canterbury Tales. Chaucer's Tale of Sir Thopas.",
+    "Lord Alfred Tennyson|A Farewell"
   ],
   "artworks": [
     "156461",
@@ -154,27 +155,31 @@
     "194765",
     "77522",
     "190629",
-    "238039"
+    "238039",
+    "221674"
   ],
   "essays": [
     "essay-012",
     "essay-024",
     "essay-004",
     "essay-010",
-    "essay-021"
+    "essay-021",
+    "essay-006"
   ],
   "stories": [
     "story-024",
     "story-009",
     "story-003",
     "story-015",
-    "story-010"
+    "story-010",
+    "story-021"
   ],
   "life_lessons": [
     "lesson-017",
     "lesson-021",
     "lesson-010",
     "lesson-013",
-    "lesson-004"
+    "lesson-004",
+    "lesson-023"
   ]
 }
