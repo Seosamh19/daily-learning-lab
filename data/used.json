@@ -75,7 +75,8 @@
     "John Dryden|Religio Laici",
     "Geoffrey Chaucer|The Canterbury Tales. Chaucer's Tale of Sir Thopas.",
     "Lord Alfred Tennyson|A Farewell",
-    "George Gordon, Lord Byron|Fragment. Written Shortly After the Marriage of Miss Chaworth"
+    "George Gordon, Lord Byron|Fragment. Written Shortly After the Marriage of Miss Chaworth",
+    "Percy Bysshe Shelley|Alastor: Or, the Spirit of Solitude"
   ],
   "artworks": [
     "156461",
@@ -158,7 +159,8 @@
     "190629",
     "238039",
     "221674",
-    "262170"
+    "262170",
+    "210112"
   ],
   "essays": [
     "essay-012",
@@ -167,7 +169,8 @@
     "essay-010",
     "essay-021",
     "essay-006",
-    "essay-013"
+    "essay-013",
+    "essay-002"
   ],
   "stories": [
     "story-024",
@@ -176,7 +179,8 @@
     "story-015",
     "story-010",
     "story-021",
-    "story-005"
+    "story-005",
+    "story-011"
   ],
   "life_lessons": [
     "lesson-017",
@@ -185,6 +189,7 @@
     "lesson-013",
     "lesson-004",
     "lesson-023",
-    "lesson-012"
+    "lesson-012",
+    "lesson-001"
   ]
 }
