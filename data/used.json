@@ -76,7 +76,8 @@
     "Geoffrey Chaucer|The Canterbury Tales. Chaucer's Tale of Sir Thopas.",
     "Lord Alfred Tennyson|A Farewell",
     "George Gordon, Lord Byron|Fragment. Written Shortly After the Marriage of Miss Chaworth",
-    "Percy Bysshe Shelley|Alastor: Or, the Spirit of Solitude"
+    "Percy Bysshe Shelley|Alastor: Or, the Spirit of Solitude",
+    "Christina Rossetti|At Home"
   ],
   "artworks": [
     "156461",
@@ -160,7 +161,8 @@
     "238039",
     "221674",
     "262170",
-    "210112"
+    "210112",
+    "59534"
   ],
   "essays": [
     "essay-012",
@@ -170,7 +172,8 @@
     "essay-021",
     "essay-006",
     "essay-013",
-    "essay-002"
+    "essay-002",
+    "essay-019"
   ],
   "stories": [
     "story-024",
@@ -180,7 +183,8 @@
     "story-010",
     "story-021",
     "story-005",
-    "story-011"
+    "story-011",
+    "story-006"
   ],
   "life_lessons": [
     "lesson-017",
@@ -190,6 +194,7 @@
     "lesson-004",
     "lesson-023",
     "lesson-012",
-    "lesson-001"
+    "lesson-001",
+    "lesson-015"
   ]
 }
