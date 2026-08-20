@@ -77,7 +77,8 @@
     "Lord Alfred Tennyson|A Farewell",
     "George Gordon, Lord Byron|Fragment. Written Shortly After the Marriage of Miss Chaworth",
     "Percy Bysshe Shelley|Alastor: Or, the Spirit of Solitude",
-    "Christina Rossetti|At Home"
+    "Christina Rossetti|At Home",
+    "Geoffrey Chaucer|The Canterbury Tales. The Clerk's Tale."
   ],
   "artworks": [
     "156461",
@@ -162,7 +163,8 @@
     "221674",
     "262170",
     "210112",
-    "59534"
+    "59534",
+    "160098"
   ],
   "essays": [
     "essay-012",
@@ -173,7 +175,8 @@
     "essay-006",
     "essay-013",
     "essay-002",
-    "essay-019"
+    "essay-019",
+    "essay-001"
   ],
   "stories": [
     "story-024",
@@ -184,7 +187,8 @@
     "story-021",
     "story-005",
     "story-011",
-    "story-006"
+    "story-006",
+    "story-020"
   ],
   "life_lessons": [
     "lesson-017",
@@ -195,6 +199,7 @@
     "lesson-023",
     "lesson-012",
     "lesson-001",
-    "lesson-015"
+    "lesson-015",
+    "lesson-006"
   ]
 }
