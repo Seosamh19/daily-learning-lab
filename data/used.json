@@ -78,7 +78,8 @@
     "George Gordon, Lord Byron|Fragment. Written Shortly After the Marriage of Miss Chaworth",
     "Percy Bysshe Shelley|Alastor: Or, the Spirit of Solitude",
     "Christina Rossetti|At Home",
-    "Geoffrey Chaucer|The Canterbury Tales. The Clerk's Tale."
+    "Geoffrey Chaucer|The Canterbury Tales. The Clerk's Tale.",
+    "George Gordon, Lord Byron|Werner; or, the Inheritance"
   ],
   "artworks": [
     "156461",
@@ -164,7 +165,8 @@
     "262170",
     "210112",
     "59534",
-    "160098"
+    "160098",
+    "88951"
   ],
   "essays": [
     "essay-012",
@@ -176,7 +178,8 @@
     "essay-013",
     "essay-002",
     "essay-019",
-    "essay-001"
+    "essay-001",
+    "essay-008"
   ],
   "stories": [
     "story-024",
@@ -188,7 +191,8 @@
     "story-005",
     "story-011",
     "story-006",
-    "story-020"
+    "story-020",
+    "story-016"
   ],
   "life_lessons": [
     "lesson-017",
@@ -200,6 +204,7 @@
     "lesson-012",
     "lesson-001",
     "lesson-015",
-    "lesson-006"
+    "lesson-006",
+    "lesson-024"
   ]
 }
