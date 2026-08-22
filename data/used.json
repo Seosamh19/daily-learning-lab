@@ -79,7 +79,8 @@
     "Percy Bysshe Shelley|Alastor: Or, the Spirit of Solitude",
     "Christina Rossetti|At Home",
     "Geoffrey Chaucer|The Canterbury Tales. The Clerk's Tale.",
-    "George Gordon, Lord Byron|Werner; or, the Inheritance"
+    "George Gordon, Lord Byron|Werner; or, the Inheritance",
+    "John Milton|At A Solemn Musick"
   ],
   "artworks": [
     "156461",
@@ -166,7 +167,8 @@
     "210112",
     "59534",
     "160098",
-    "88951"
+    "88951",
+    "53950"
   ],
   "essays": [
     "essay-012",
@@ -179,7 +181,8 @@
     "essay-002",
     "essay-019",
     "essay-001",
-    "essay-008"
+    "essay-008",
+    "essay-020"
   ],
   "stories": [
     "story-024",
@@ -192,7 +195,8 @@
     "story-011",
     "story-006",
     "story-020",
-    "story-016"
+    "story-016",
+    "story-002"
   ],
   "life_lessons": [
     "lesson-017",
@@ -205,6 +209,7 @@
     "lesson-001",
     "lesson-015",
     "lesson-006",
-    "lesson-024"
+    "lesson-024",
+    "lesson-008"
   ]
 }
