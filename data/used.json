@@ -81,7 +81,8 @@
     "Geoffrey Chaucer|The Canterbury Tales. The Clerk's Tale.",
     "George Gordon, Lord Byron|Werner; or, the Inheritance",
     "John Milton|At A Solemn Musick",
-    "Percy Bysshe Shelley|To Sophia [Miss Stacey]"
+    "Percy Bysshe Shelley|To Sophia [Miss Stacey]",
+    "George Gordon, Lord Byron|English Bards, and Scotch Reviewers; a Satire"
   ],
   "artworks": [
     "156461",
@@ -170,7 +171,8 @@
     "160098",
     "88951",
     "53950",
-    "219691"
+    "219691",
+    "198303"
   ],
   "essays": [
     "essay-012",
@@ -185,7 +187,8 @@
     "essay-001",
     "essay-008",
     "essay-020",
-    "essay-018"
+    "essay-018",
+    "essay-022"
   ],
   "stories": [
     "story-024",
@@ -200,7 +203,8 @@
     "story-020",
     "story-016",
     "story-002",
-    "story-008"
+    "story-008",
+    "story-018"
   ],
   "life_lessons": [
     "lesson-017",
@@ -215,6 +219,7 @@
     "lesson-006",
     "lesson-024",
     "lesson-008",
-    "lesson-011"
+    "lesson-011",
+    "lesson-025"
   ]
 }
