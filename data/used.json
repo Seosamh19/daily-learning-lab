@@ -84,7 +84,8 @@
     "Percy Bysshe Shelley|To Sophia [Miss Stacey]",
     "George Gordon, Lord Byron|English Bards, and Scotch Reviewers; a Satire",
     "Emily Dickinson|Bliss is the plaything of the child --",
-    "George Gordon, Lord Byron|Remember Thee! Remember Thee!"
+    "George Gordon, Lord Byron|Remember Thee! Remember Thee!",
+    "Lord Alfred Tennyson|Of Old Sat Freedom"
   ],
   "artworks": [
     "156461",
@@ -176,7 +177,8 @@
     "219691",
     "198303",
     "277823",
-    "262242"
+    "262242",
+    "226718"
   ],
   "essays": [
     "essay-012",
@@ -194,7 +196,8 @@
     "essay-018",
     "essay-022",
     "essay-009",
-    "essay-003"
+    "essay-003",
+    "essay-014"
   ],
   "stories": [
     "story-024",
@@ -212,7 +215,8 @@
     "story-008",
     "story-018",
     "story-004",
-    "story-019"
+    "story-019",
+    "story-001"
   ],
   "life_lessons": [
     "lesson-017",
@@ -230,6 +234,7 @@
     "lesson-011",
     "lesson-025",
     "lesson-005",
-    "lesson-018"
+    "lesson-018",
+    "lesson-014"
   ]
 }
