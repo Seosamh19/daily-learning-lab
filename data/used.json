@@ -86,7 +86,8 @@
     "Emily Dickinson|Bliss is the plaything of the child --",
     "George Gordon, Lord Byron|Remember Thee! Remember Thee!",
     "Lord Alfred Tennyson|Of Old Sat Freedom",
-    "Alexander Pope|Windsor-Forest."
+    "Alexander Pope|Windsor-Forest.",
+    "Alexander Pope|The Temple of Fame."
   ],
   "artworks": [
     "156461",
@@ -180,7 +181,8 @@
     "277823",
     "262242",
     "226718",
-    "97295"
+    "97295",
+    "74699"
   ],
   "essays": [
     "essay-012",
@@ -200,7 +202,8 @@
     "essay-009",
     "essay-003",
     "essay-014",
-    "essay-015"
+    "essay-015",
+    "essay-016"
   ],
   "stories": [
     "story-024",
@@ -220,7 +223,8 @@
     "story-004",
     "story-019",
     "story-001",
-    "story-017"
+    "story-017",
+    "story-013"
   ],
   "life_lessons": [
     "lesson-017",
@@ -240,6 +244,7 @@
     "lesson-005",
     "lesson-018",
     "lesson-014",
-    "lesson-020"
+    "lesson-020",
+    "lesson-002"
   ]
 }
