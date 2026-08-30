@@ -87,7 +87,8 @@
     "George Gordon, Lord Byron|Remember Thee! Remember Thee!",
     "Lord Alfred Tennyson|Of Old Sat Freedom",
     "Alexander Pope|Windsor-Forest.",
-    "Alexander Pope|The Temple of Fame."
+    "Alexander Pope|The Temple of Fame.",
+    "Edgar Allan Poe|An Enigma"
   ],
   "artworks": [
     "156461",
@@ -182,7 +183,8 @@
     "262242",
     "226718",
     "97295",
-    "74699"
+    "74699",
+    "213087"
   ],
   "essays": [
     "essay-012",
@@ -203,7 +205,8 @@
     "essay-003",
     "essay-014",
     "essay-015",
-    "essay-016"
+    "essay-016",
+    "essay-017"
   ],
   "stories": [
     "story-024",
@@ -224,7 +227,8 @@
     "story-019",
     "story-001",
     "story-017",
-    "story-013"
+    "story-013",
+    "story-022"
   ],
   "life_lessons": [
     "lesson-017",
@@ -245,6 +249,7 @@
     "lesson-018",
     "lesson-014",
     "lesson-020",
-    "lesson-002"
+    "lesson-002",
+    "lesson-019"
   ]
 }
