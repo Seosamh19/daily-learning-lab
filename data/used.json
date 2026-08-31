@@ -88,7 +88,8 @@
     "Lord Alfred Tennyson|Of Old Sat Freedom",
     "Alexander Pope|Windsor-Forest.",
     "Alexander Pope|The Temple of Fame.",
-    "Edgar Allan Poe|An Enigma"
+    "Edgar Allan Poe|An Enigma",
+    "Lord Alfred Tennyson|The Princess (part 5)"
   ],
   "artworks": [
     "156461",
@@ -184,7 +185,8 @@
     "226718",
     "97295",
     "74699",
-    "213087"
+    "213087",
+    "53979"
   ],
   "essays": [
     "essay-012",
@@ -206,7 +208,8 @@
     "essay-014",
     "essay-015",
     "essay-016",
-    "essay-017"
+    "essay-017",
+    "essay-025"
   ],
   "stories": [
     "story-024",
@@ -228,7 +231,8 @@
     "story-001",
     "story-017",
     "story-013",
-    "story-022"
+    "story-022",
+    "story-025"
   ],
   "life_lessons": [
     "lesson-017",
@@ -250,6 +254,7 @@
     "lesson-014",
     "lesson-020",
     "lesson-002",
-    "lesson-019"
+    "lesson-019",
+    "lesson-009"
   ]
 }
