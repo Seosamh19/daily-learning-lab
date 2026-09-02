@@ -90,7 +90,8 @@
     "Alexander Pope|The Temple of Fame.",
     "Edgar Allan Poe|An Enigma",
     "Lord Alfred Tennyson|The Princess (part 5)",
-    "John Clare|The Gipsy's Camp"
+    "John Clare|The Gipsy's Camp",
+    "George Gordon, Lord Byron|On Parting"
   ],
   "artworks": [
     "156461",
@@ -188,7 +189,8 @@
     "74699",
     "213087",
     "53979",
-    "259323"
+    "259323",
+    "106402"
   ],
   "essays": [
     "essay-012",
@@ -212,7 +214,8 @@
     "essay-016",
     "essay-017",
     "essay-025",
-    "essay-023"
+    "essay-023",
+    "essay-005"
   ],
   "stories": [
     "story-024",
@@ -236,7 +239,8 @@
     "story-013",
     "story-022",
     "story-025",
-    "story-014"
+    "story-014",
+    "story-023"
   ],
   "life_lessons": [
     "lesson-017",
@@ -260,6 +264,7 @@
     "lesson-002",
     "lesson-019",
     "lesson-009",
-    "lesson-022"
+    "lesson-022",
+    "lesson-007"
   ]
 }
