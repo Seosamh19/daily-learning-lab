@@ -91,7 +91,8 @@
     "Edgar Allan Poe|An Enigma",
     "Lord Alfred Tennyson|The Princess (part 5)",
     "John Clare|The Gipsy's Camp",
-    "George Gordon, Lord Byron|On Parting"
+    "George Gordon, Lord Byron|On Parting",
+    "Percy Bysshe Shelley|The Witch of Atlas"
   ],
   "artworks": [
     "156461",
@@ -190,7 +191,8 @@
     "213087",
     "53979",
     "259323",
-    "106402"
+    "106402",
+    "139502"
   ],
   "essays": [
     "essay-012",
@@ -215,7 +217,8 @@
     "essay-017",
     "essay-025",
     "essay-023",
-    "essay-005"
+    "essay-005",
+    "essay-011"
   ],
   "stories": [
     "story-024",
@@ -240,7 +243,8 @@
     "story-022",
     "story-025",
     "story-014",
-    "story-023"
+    "story-023",
+    "story-007"
   ],
   "life_lessons": [
     "lesson-017",
@@ -265,6 +269,7 @@
     "lesson-019",
     "lesson-009",
     "lesson-022",
-    "lesson-007"
+    "lesson-007",
+    "lesson-016"
   ]
 }
