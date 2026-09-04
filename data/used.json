@@ -92,7 +92,8 @@
     "Lord Alfred Tennyson|The Princess (part 5)",
     "John Clare|The Gipsy's Camp",
     "George Gordon, Lord Byron|On Parting",
-    "Percy Bysshe Shelley|The Witch of Atlas"
+    "Percy Bysshe Shelley|The Witch of Atlas",
+    "John Milton|Paradise Regained: The First Book"
   ],
   "artworks": [
     "156461",
@@ -192,7 +193,8 @@
     "53979",
     "259323",
     "106402",
-    "139502"
+    "139502",
+    "66555"
   ],
   "essays": [
     "essay-012",
@@ -218,7 +220,8 @@
     "essay-025",
     "essay-023",
     "essay-005",
-    "essay-011"
+    "essay-011",
+    "essay-007"
   ],
   "stories": [
     "story-024",
@@ -244,7 +247,8 @@
     "story-025",
     "story-014",
     "story-023",
-    "story-007"
+    "story-007",
+    "story-012"
   ],
   "life_lessons": [
     "lesson-017",
@@ -270,6 +274,7 @@
     "lesson-009",
     "lesson-022",
     "lesson-007",
-    "lesson-016"
+    "lesson-016",
+    "lesson-003"
   ]
 }
