@@ -94,7 +94,8 @@
     "George Gordon, Lord Byron|On Parting",
     "Percy Bysshe Shelley|The Witch of Atlas",
     "John Milton|Paradise Regained: The First Book",
-    "John Keats|Song of the Indian Maid, from 'Endymion'"
+    "John Keats|Song of the Indian Maid, from 'Endymion'",
+    "Emily Dickinson|Going to Him! Happy letter!"
   ],
   "artworks": [
     "156461",
@@ -196,15 +197,19 @@
     "106402",
     "139502",
     "66555",
-    "12488"
+    "12488",
+    "147867"
   ],
   "essays": [
-    "essay-011"
+    "essay-011",
+    "essay-005"
   ],
   "stories": [
-    "story-018"
+    "story-018",
+    "story-011"
   ],
   "life_lessons": [
-    "lesson-012"
+    "lesson-012",
+    "lesson-009"
   ]
 }
