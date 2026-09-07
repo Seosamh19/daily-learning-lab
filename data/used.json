@@ -95,7 +95,8 @@
     "Percy Bysshe Shelley|The Witch of Atlas",
     "John Milton|Paradise Regained: The First Book",
     "John Keats|Song of the Indian Maid, from 'Endymion'",
-    "Emily Dickinson|Going to Him! Happy letter!"
+    "Emily Dickinson|Going to Him! Happy letter!",
+    "Robert Browning|Incident of the French Camp"
   ],
   "artworks": [
     "156461",
@@ -198,18 +199,22 @@
     "139502",
     "66555",
     "12488",
-    "147867"
+    "147867",
+    "120544"
   ],
   "essays": [
     "essay-011",
-    "essay-005"
+    "essay-005",
+    "essay-022"
   ],
   "stories": [
     "story-018",
-    "story-011"
+    "story-011",
+    "story-024"
   ],
   "life_lessons": [
     "lesson-012",
-    "lesson-009"
+    "lesson-009",
+    "lesson-023"
   ]
 }
