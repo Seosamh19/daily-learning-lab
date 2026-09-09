@@ -97,7 +97,8 @@
     "John Keats|Song of the Indian Maid, from 'Endymion'",
     "Emily Dickinson|Going to Him! Happy letter!",
     "Robert Browning|Incident of the French Camp",
-    "Alexander Pope|Eloisa to Abelard."
+    "Alexander Pope|Eloisa to Abelard.",
+    "George Gordon, Lord Byron|The Morgante Maggiore of Pulci"
   ],
   "artworks": [
     "156461",
@@ -202,24 +203,28 @@
     "12488",
     "147867",
     "120544",
-    "65244"
+    "65244",
+    "120312"
   ],
   "essays": [
     "essay-011",
     "essay-005",
     "essay-022",
-    "essay-002"
+    "essay-002",
+    "essay-001"
   ],
   "stories": [
     "story-018",
     "story-011",
     "story-024",
-    "story-012"
+    "story-012",
+    "story-013"
   ],
   "life_lessons": [
     "lesson-012",
     "lesson-009",
     "lesson-023",
-    "lesson-004"
+    "lesson-004",
+    "lesson-013"
   ]
 }
