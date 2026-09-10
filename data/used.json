@@ -98,7 +98,8 @@
     "Emily Dickinson|Going to Him! Happy letter!",
     "Robert Browning|Incident of the French Camp",
     "Alexander Pope|Eloisa to Abelard.",
-    "George Gordon, Lord Byron|The Morgante Maggiore of Pulci"
+    "George Gordon, Lord Byron|The Morgante Maggiore of Pulci",
+    "Percy Bysshe Shelley|Lines Written During the Castlereagh Administration"
   ],
   "artworks": [
     "156461",
@@ -204,27 +205,31 @@
     "147867",
     "120544",
     "65244",
-    "120312"
+    "120312",
+    "108857"
   ],
   "essays": [
     "essay-011",
     "essay-005",
     "essay-022",
     "essay-002",
-    "essay-001"
+    "essay-001",
+    "essay-006"
   ],
   "stories": [
     "story-018",
     "story-011",
     "story-024",
     "story-012",
-    "story-013"
+    "story-013",
+    "story-001"
   ],
   "life_lessons": [
     "lesson-012",
     "lesson-009",
     "lesson-023",
     "lesson-004",
-    "lesson-013"
+    "lesson-013",
+    "lesson-010"
   ]
 }
