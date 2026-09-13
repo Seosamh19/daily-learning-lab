@@ -100,7 +100,8 @@
     "Alexander Pope|Eloisa to Abelard.",
     "George Gordon, Lord Byron|The Morgante Maggiore of Pulci",
     "Percy Bysshe Shelley|Lines Written During the Castlereagh Administration",
-    "George Gordon, Lord Byron|To Time"
+    "George Gordon, Lord Byron|To Time",
+    "William Shakespeare|Sonnet 140: Be wise as thou art cruel; do not press"
   ],
   "artworks": [
     "156461",
@@ -209,7 +210,8 @@
     "120312",
     "108857",
     "99397",
-    "123547"
+    "123547",
+    "267859"
   ],
   "essays": [
     "essay-011",
@@ -219,7 +221,8 @@
     "essay-001",
     "essay-006",
     "essay-017",
-    "essay-021"
+    "essay-021",
+    "essay-014"
   ],
   "stories": [
     "story-018",
@@ -229,7 +232,8 @@
     "story-013",
     "story-001",
     "story-021",
-    "story-016"
+    "story-016",
+    "story-006"
   ],
   "life_lessons": [
     "lesson-012",
@@ -239,6 +243,7 @@
     "lesson-013",
     "lesson-010",
     "lesson-008",
-    "lesson-005"
+    "lesson-005",
+    "lesson-001"
   ]
 }
