@@ -101,7 +101,8 @@
     "George Gordon, Lord Byron|The Morgante Maggiore of Pulci",
     "Percy Bysshe Shelley|Lines Written During the Castlereagh Administration",
     "George Gordon, Lord Byron|To Time",
-    "William Shakespeare|Sonnet 140: Be wise as thou art cruel; do not press"
+    "William Shakespeare|Sonnet 140: Be wise as thou art cruel; do not press",
+    "George Gordon, Lord Byron|Oscar of Alva"
   ],
   "artworks": [
     "156461",
@@ -211,7 +212,8 @@
     "108857",
     "99397",
     "123547",
-    "267859"
+    "267859",
+    "52744"
   ],
   "essays": [
     "essay-011",
@@ -222,7 +224,8 @@
     "essay-006",
     "essay-017",
     "essay-021",
-    "essay-014"
+    "essay-014",
+    "essay-015"
   ],
   "stories": [
     "story-018",
@@ -233,7 +236,8 @@
     "story-001",
     "story-021",
     "story-016",
-    "story-006"
+    "story-006",
+    "story-009"
   ],
   "life_lessons": [
     "lesson-012",
@@ -244,6 +248,7 @@
     "lesson-010",
     "lesson-008",
     "lesson-005",
-    "lesson-001"
+    "lesson-001",
+    "lesson-002"
   ]
 }
