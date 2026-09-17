@@ -104,7 +104,8 @@
     "William Shakespeare|Sonnet 140: Be wise as thou art cruel; do not press",
     "George Gordon, Lord Byron|Oscar of Alva",
     "Edward Thomas|I Built Myself a House of Glass",
-    "Percy Bysshe Shelley|Fragment: 'My Head Is Wild With Weeping'"
+    "Percy Bysshe Shelley|Fragment: 'My Head Is Wild With Weeping'",
+    "George Gordon, Lord Byron|The Two Foscari"
   ],
   "artworks": [
     "156461",
@@ -217,7 +218,8 @@
     "267859",
     "52744",
     "282746",
-    "46642"
+    "46642",
+    "213932"
   ],
   "essays": [
     "essay-011",
@@ -231,7 +233,8 @@
     "essay-014",
     "essay-015",
     "essay-007",
-    "essay-010"
+    "essay-010",
+    "essay-012"
   ],
   "stories": [
     "story-018",
@@ -245,7 +248,8 @@
     "story-006",
     "story-009",
     "story-025",
-    "story-003"
+    "story-003",
+    "story-023"
   ],
   "life_lessons": [
     "lesson-012",
@@ -259,6 +263,7 @@
     "lesson-001",
     "lesson-002",
     "lesson-024",
-    "lesson-007"
+    "lesson-007",
+    "lesson-015"
   ]
 }
