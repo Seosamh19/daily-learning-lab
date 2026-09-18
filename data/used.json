@@ -105,7 +105,8 @@
     "George Gordon, Lord Byron|Oscar of Alva",
     "Edward Thomas|I Built Myself a House of Glass",
     "Percy Bysshe Shelley|Fragment: 'My Head Is Wild With Weeping'",
-    "George Gordon, Lord Byron|The Two Foscari"
+    "George Gordon, Lord Byron|The Two Foscari",
+    "Geoffrey Chaucer|The Canterbury Tales: The Friar's Tale"
   ],
   "artworks": [
     "156461",
@@ -219,7 +220,8 @@
     "52744",
     "282746",
     "46642",
-    "213932"
+    "213932",
+    "73935"
   ],
   "essays": [
     "essay-011",
@@ -234,7 +236,8 @@
     "essay-015",
     "essay-007",
     "essay-010",
-    "essay-012"
+    "essay-012",
+    "essay-020"
   ],
   "stories": [
     "story-018",
@@ -249,7 +252,8 @@
     "story-009",
     "story-025",
     "story-003",
-    "story-023"
+    "story-023",
+    "story-002"
   ],
   "life_lessons": [
     "lesson-012",
@@ -264,6 +268,7 @@
     "lesson-002",
     "lesson-024",
     "lesson-007",
-    "lesson-015"
+    "lesson-015",
+    "lesson-021"
   ]
 }
