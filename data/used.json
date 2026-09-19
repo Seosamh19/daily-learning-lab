@@ -106,7 +106,8 @@
     "Edward Thomas|I Built Myself a House of Glass",
     "Percy Bysshe Shelley|Fragment: 'My Head Is Wild With Weeping'",
     "George Gordon, Lord Byron|The Two Foscari",
-    "Geoffrey Chaucer|The Canterbury Tales: The Friar's Tale"
+    "Geoffrey Chaucer|The Canterbury Tales: The Friar's Tale",
+    "Henry David Thoreau|My life has been the poem"
   ],
   "artworks": [
     "156461",
@@ -221,7 +222,8 @@
     "282746",
     "46642",
     "213932",
-    "73935"
+    "73935",
+    "116677"
   ],
   "essays": [
     "essay-011",
@@ -237,7 +239,8 @@
     "essay-007",
     "essay-010",
     "essay-012",
-    "essay-020"
+    "essay-020",
+    "essay-008"
   ],
   "stories": [
     "story-018",
@@ -253,7 +256,8 @@
     "story-025",
     "story-003",
     "story-023",
-    "story-002"
+    "story-002",
+    "story-004"
   ],
   "life_lessons": [
     "lesson-012",
@@ -269,6 +273,7 @@
     "lesson-024",
     "lesson-007",
     "lesson-015",
-    "lesson-021"
+    "lesson-021",
+    "lesson-025"
   ]
 }
