@@ -111,7 +111,8 @@
     "Edmund Spenser|Ruins of Rome, by Bellay",
     "Robert Browning|Up at a Villa--Down in the City",
     "Emily Dickinson|Better -- than Music! For I -- who heard it --",
-    "Geoffrey Chaucer|The Canterbury Tales: The Monk's Tale"
+    "Geoffrey Chaucer|The Canterbury Tales: The Monk's Tale",
+    "William Shakespeare|Sonnet 124: If my dear love were but the child of state"
   ],
   "artworks": [
     "156461",
@@ -231,7 +232,8 @@
     "241619",
     "55512",
     "84088",
-    "135736"
+    "135736",
+    "156783"
   ],
   "essays": [
     "essay-011",
@@ -252,7 +254,8 @@
     "essay-018",
     "essay-025",
     "essay-013",
-    "essay-016"
+    "essay-016",
+    "essay-009"
   ],
   "stories": [
     "story-018",
@@ -273,7 +276,8 @@
     "story-014",
     "story-007",
     "story-005",
-    "story-008"
+    "story-008",
+    "story-019"
   ],
   "life_lessons": [
     "lesson-012",
@@ -294,6 +298,7 @@
     "lesson-022",
     "lesson-003",
     "lesson-014",
-    "lesson-018"
+    "lesson-018",
+    "lesson-020"
   ]
 }
