@@ -115,7 +115,8 @@
     "William Shakespeare|Sonnet 124: If my dear love were but the child of state",
     "Percy Bysshe Shelley|From the Greek of Moschus",
     "Edgar Allan Poe|Hymn",
-    "Algernon Charles Swinburne|Death and Birth"
+    "Algernon Charles Swinburne|Death and Birth",
+    "George Gordon, Lord Byron|The Corsair: A Tale"
   ],
   "artworks": [
     "156461",
@@ -239,7 +240,8 @@
     "156783",
     "137039",
     "9734",
-    "15156"
+    "15156",
+    "58336"
   ],
   "essays": [
     "essay-011",
@@ -264,7 +266,8 @@
     "essay-009",
     "essay-023",
     "essay-024",
-    "essay-004"
+    "essay-004",
+    "essay-019"
   ],
   "stories": [
     "story-018",
@@ -289,7 +292,8 @@
     "story-019",
     "story-020",
     "story-015",
-    "story-010"
+    "story-010",
+    "story-022"
   ],
   "life_lessons": [
     "lesson-012",
@@ -314,6 +318,7 @@
     "lesson-020",
     "lesson-017",
     "lesson-016",
-    "lesson-011"
+    "lesson-011",
+    "lesson-019"
   ]
 }
