@@ -116,7 +116,8 @@
     "Percy Bysshe Shelley|From the Greek of Moschus",
     "Edgar Allan Poe|Hymn",
     "Algernon Charles Swinburne|Death and Birth",
-    "George Gordon, Lord Byron|The Corsair: A Tale"
+    "George Gordon, Lord Byron|The Corsair: A Tale",
+    "Percy Bysshe Shelley|The Revolt of Islam. A Poem in Twelve Cantos"
   ],
   "artworks": [
     "156461",
@@ -241,7 +242,8 @@
     "137039",
     "9734",
     "15156",
-    "58336"
+    "58336",
+    "225445"
   ],
   "essays": [
     "essay-011",
@@ -267,7 +269,8 @@
     "essay-023",
     "essay-024",
     "essay-004",
-    "essay-019"
+    "essay-019",
+    "essay-003"
   ],
   "stories": [
     "story-018",
@@ -293,7 +296,8 @@
     "story-020",
     "story-015",
     "story-010",
-    "story-022"
+    "story-022",
+    "story-017"
   ],
   "life_lessons": [
     "lesson-012",
@@ -319,6 +323,7 @@
     "lesson-017",
     "lesson-016",
     "lesson-011",
-    "lesson-019"
+    "lesson-019",
+    "lesson-006"
   ]
 }
