@@ -118,7 +118,8 @@
     "Algernon Charles Swinburne|Death and Birth",
     "George Gordon, Lord Byron|The Corsair: A Tale",
     "Percy Bysshe Shelley|The Revolt of Islam. A Poem in Twelve Cantos",
-    "Geoffrey Chaucer|The Canterbury Tales: The Prioress's Tale"
+    "Geoffrey Chaucer|The Canterbury Tales: The Prioress's Tale",
+    "Charlotte Bronte|The Teacher's Monologue"
   ],
   "artworks": [
     "156461",
@@ -245,15 +246,19 @@
     "15156",
     "58336",
     "225445",
-    "67824"
+    "67824",
+    "68228"
   ],
   "essays": [
-    "essay-022"
+    "essay-022",
+    "essay-020"
   ],
   "stories": [
-    "story-023"
+    "story-023",
+    "story-008"
   ],
   "life_lessons": [
-    "lesson-022"
+    "lesson-022",
+    "lesson-001"
   ]
 }
