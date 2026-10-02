@@ -119,7 +119,8 @@
     "George Gordon, Lord Byron|The Corsair: A Tale",
     "Percy Bysshe Shelley|The Revolt of Islam. A Poem in Twelve Cantos",
     "Geoffrey Chaucer|The Canterbury Tales: The Prioress's Tale",
-    "Charlotte Bronte|The Teacher's Monologue"
+    "Charlotte Bronte|The Teacher's Monologue",
+    "John Clare|Ballad"
   ],
   "artworks": [
     "156461",
@@ -247,18 +248,22 @@
     "58336",
     "225445",
     "67824",
-    "68228"
+    "68228",
+    "273989"
   ],
   "essays": [
     "essay-022",
-    "essay-020"
+    "essay-020",
+    "essay-008"
   ],
   "stories": [
     "story-023",
-    "story-008"
+    "story-008",
+    "story-013"
   ],
   "life_lessons": [
     "lesson-022",
-    "lesson-001"
+    "lesson-001",
+    "lesson-004"
   ]
 }
