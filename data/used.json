@@ -120,7 +120,8 @@
     "Percy Bysshe Shelley|The Revolt of Islam. A Poem in Twelve Cantos",
     "Geoffrey Chaucer|The Canterbury Tales: The Prioress's Tale",
     "Charlotte Bronte|The Teacher's Monologue",
-    "John Clare|Ballad"
+    "John Clare|Ballad",
+    "George Gordon, Lord Byron|Answer to Some Elegant Verses Sent by a Friend to the Author, Complaining That One of His Descriptions Was Rather Too Warmly Drawn"
   ],
   "artworks": [
     "156461",
@@ -249,21 +250,25 @@
     "225445",
     "67824",
     "68228",
-    "273989"
+    "273989",
+    "4933"
   ],
   "essays": [
     "essay-022",
     "essay-020",
-    "essay-008"
+    "essay-008",
+    "essay-004"
   ],
   "stories": [
     "story-023",
     "story-008",
-    "story-013"
+    "story-013",
+    "story-018"
   ],
   "life_lessons": [
     "lesson-022",
     "lesson-001",
-    "lesson-004"
+    "lesson-004",
+    "lesson-015"
   ]
 }
