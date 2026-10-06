@@ -123,7 +123,8 @@
     "John Clare|Ballad",
     "George Gordon, Lord Byron|Answer to Some Elegant Verses Sent by a Friend to the Author, Complaining That One of His Descriptions Was Rather Too Warmly Drawn",
     "Geoffrey Chaucer|The Canterbury Tales: The Clerk's Tale",
-    "Edward Thomas|But These Things Also"
+    "Edward Thomas|But These Things Also",
+    "John Keats|Bright Star, Would I Were Steadfast As Thou Art"
   ],
   "artworks": [
     "156461",
@@ -255,7 +256,8 @@
     "273989",
     "4933",
     "208561",
-    "276768"
+    "276768",
+    "5669"
   ],
   "essays": [
     "essay-022",
@@ -263,7 +265,8 @@
     "essay-008",
     "essay-004",
     "essay-011",
-    "essay-003"
+    "essay-003",
+    "essay-017"
   ],
   "stories": [
     "story-023",
@@ -271,7 +274,8 @@
     "story-013",
     "story-018",
     "story-024",
-    "story-002"
+    "story-002",
+    "story-022"
   ],
   "life_lessons": [
     "lesson-022",
@@ -279,6 +283,7 @@
     "lesson-004",
     "lesson-015",
     "lesson-023",
-    "lesson-020"
+    "lesson-020",
+    "lesson-024"
   ]
 }
