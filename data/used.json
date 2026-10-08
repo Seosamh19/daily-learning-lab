@@ -125,7 +125,8 @@
     "Geoffrey Chaucer|The Canterbury Tales: The Clerk's Tale",
     "Edward Thomas|But These Things Also",
     "John Keats|Bright Star, Would I Were Steadfast As Thou Art",
-    "Percy Bysshe Shelley|The Triumph of Life"
+    "Percy Bysshe Shelley|The Triumph of Life",
+    "Edward Thomas|For These"
   ],
   "artworks": [
     "156461",
@@ -259,7 +260,8 @@
     "208561",
     "276768",
     "5669",
-    "61955"
+    "61955",
+    "26082"
   ],
   "essays": [
     "essay-022",
@@ -269,7 +271,8 @@
     "essay-011",
     "essay-003",
     "essay-017",
-    "essay-010"
+    "essay-010",
+    "essay-024"
   ],
   "stories": [
     "story-023",
@@ -279,7 +282,8 @@
     "story-024",
     "story-002",
     "story-022",
-    "story-006"
+    "story-006",
+    "story-017"
   ],
   "life_lessons": [
     "lesson-022",
@@ -289,6 +293,7 @@
     "lesson-023",
     "lesson-020",
     "lesson-024",
-    "lesson-008"
+    "lesson-008",
+    "lesson-007"
   ]
 }
