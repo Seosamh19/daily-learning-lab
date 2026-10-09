@@ -126,7 +126,8 @@
     "Edward Thomas|But These Things Also",
     "John Keats|Bright Star, Would I Were Steadfast As Thou Art",
     "Percy Bysshe Shelley|The Triumph of Life",
-    "Edward Thomas|For These"
+    "Edward Thomas|For These",
+    "Geoffrey Chaucer|The Canterbury Tales: The Manciple's Tale"
   ],
   "artworks": [
     "156461",
@@ -261,7 +262,8 @@
     "276768",
     "5669",
     "61955",
-    "26082"
+    "26082",
+    "271736"
   ],
   "essays": [
     "essay-022",
@@ -272,7 +274,8 @@
     "essay-003",
     "essay-017",
     "essay-010",
-    "essay-024"
+    "essay-024",
+    "essay-015"
   ],
   "stories": [
     "story-023",
@@ -283,7 +286,8 @@
     "story-002",
     "story-022",
     "story-006",
-    "story-017"
+    "story-017",
+    "story-025"
   ],
   "life_lessons": [
     "lesson-022",
@@ -294,6 +298,7 @@
     "lesson-020",
     "lesson-024",
     "lesson-008",
-    "lesson-007"
+    "lesson-007",
+    "lesson-006"
   ]
 }
