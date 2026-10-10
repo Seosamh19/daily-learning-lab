@@ -127,7 +127,8 @@
     "John Keats|Bright Star, Would I Were Steadfast As Thou Art",
     "Percy Bysshe Shelley|The Triumph of Life",
     "Edward Thomas|For These",
-    "Geoffrey Chaucer|The Canterbury Tales: The Manciple's Tale"
+    "Geoffrey Chaucer|The Canterbury Tales: The Manciple's Tale",
+    "John Milton|Paradise Lost: Book IX"
   ],
   "artworks": [
     "156461",
@@ -263,7 +264,8 @@
     "5669",
     "61955",
     "26082",
-    "271736"
+    "271736",
+    "145678"
   ],
   "essays": [
     "essay-022",
@@ -275,7 +277,8 @@
     "essay-017",
     "essay-010",
     "essay-024",
-    "essay-015"
+    "essay-015",
+    "essay-021"
   ],
   "stories": [
     "story-023",
@@ -287,7 +290,8 @@
     "story-022",
     "story-006",
     "story-017",
-    "story-025"
+    "story-025",
+    "story-001"
   ],
   "life_lessons": [
     "lesson-022",
@@ -299,6 +303,7 @@
     "lesson-024",
     "lesson-008",
     "lesson-007",
-    "lesson-006"
+    "lesson-006",
+    "lesson-010"
   ]
 }
