@@ -129,7 +129,8 @@
     "Edward Thomas|For These",
     "Geoffrey Chaucer|The Canterbury Tales: The Manciple's Tale",
     "John Milton|Paradise Lost: Book IX",
-    "Samuel Coleridge|The Moon, how definite its orb! (fragment)"
+    "Samuel Coleridge|The Moon, how definite its orb! (fragment)",
+    "Percy Bysshe Shelley|Prince Athanase. A Fragment."
   ],
   "artworks": [
     "156461",
@@ -267,7 +268,8 @@
     "26082",
     "271736",
     "145678",
-    "73683"
+    "73683",
+    "149776"
   ],
   "essays": [
     "essay-022",
@@ -281,7 +283,8 @@
     "essay-024",
     "essay-015",
     "essay-021",
-    "essay-001"
+    "essay-001",
+    "essay-007"
   ],
   "stories": [
     "story-023",
@@ -295,7 +298,8 @@
     "story-017",
     "story-025",
     "story-001",
-    "story-004"
+    "story-004",
+    "story-015"
   ],
   "life_lessons": [
     "lesson-022",
@@ -309,6 +313,7 @@
     "lesson-007",
     "lesson-006",
     "lesson-010",
-    "lesson-012"
+    "lesson-012",
+    "lesson-019"
   ]
 }
