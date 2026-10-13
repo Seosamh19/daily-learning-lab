@@ -130,7 +130,8 @@
     "Geoffrey Chaucer|The Canterbury Tales: The Manciple's Tale",
     "John Milton|Paradise Lost: Book IX",
     "Samuel Coleridge|The Moon, how definite its orb! (fragment)",
-    "Percy Bysshe Shelley|Prince Athanase. A Fragment."
+    "Percy Bysshe Shelley|Prince Athanase. A Fragment.",
+    "Percy Bysshe Shelley|Fragment: 'Ye Gentle Visitations of Calm Thought'"
   ],
   "artworks": [
     "156461",
@@ -269,7 +270,8 @@
     "271736",
     "145678",
     "73683",
-    "149776"
+    "149776",
+    "88930"
   ],
   "essays": [
     "essay-022",
@@ -284,7 +286,8 @@
     "essay-015",
     "essay-021",
     "essay-001",
-    "essay-007"
+    "essay-007",
+    "essay-006"
   ],
   "stories": [
     "story-023",
@@ -299,7 +302,8 @@
     "story-025",
     "story-001",
     "story-004",
-    "story-015"
+    "story-015",
+    "story-010"
   ],
   "life_lessons": [
     "lesson-022",
@@ -314,6 +318,7 @@
     "lesson-006",
     "lesson-010",
     "lesson-012",
-    "lesson-019"
+    "lesson-019",
+    "lesson-003"
   ]
 }
