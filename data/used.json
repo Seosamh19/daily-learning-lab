@@ -132,7 +132,8 @@
     "Samuel Coleridge|The Moon, how definite its orb! (fragment)",
     "Percy Bysshe Shelley|Prince Athanase. A Fragment.",
     "Percy Bysshe Shelley|Fragment: 'Ye Gentle Visitations of Calm Thought'",
-    "Percy Bysshe Shelley|To Miss -- -- [Harriet Grove] from Miss -- -- [Elizabeth Shelley]"
+    "Percy Bysshe Shelley|To Miss -- -- [Harriet Grove] from Miss -- -- [Elizabeth Shelley]",
+    "John Milton|Paradise Regained: The Second Book"
   ],
   "artworks": [
     "156461",
@@ -273,7 +274,8 @@
     "73683",
     "149776",
     "88930",
-    "4037"
+    "4037",
+    "31522"
   ],
   "essays": [
     "essay-022",
@@ -290,7 +292,8 @@
     "essay-001",
     "essay-007",
     "essay-006",
-    "essay-009"
+    "essay-009",
+    "essay-019"
   ],
   "stories": [
     "story-023",
@@ -307,7 +310,8 @@
     "story-004",
     "story-015",
     "story-010",
-    "story-016"
+    "story-016",
+    "story-020"
   ],
   "life_lessons": [
     "lesson-022",
@@ -324,6 +328,7 @@
     "lesson-012",
     "lesson-019",
     "lesson-003",
-    "lesson-025"
+    "lesson-025",
+    "lesson-016"
   ]
 }
