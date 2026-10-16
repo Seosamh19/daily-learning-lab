@@ -133,7 +133,8 @@
     "Percy Bysshe Shelley|Prince Athanase. A Fragment.",
     "Percy Bysshe Shelley|Fragment: 'Ye Gentle Visitations of Calm Thought'",
     "Percy Bysshe Shelley|To Miss -- -- [Harriet Grove] from Miss -- -- [Elizabeth Shelley]",
-    "John Milton|Paradise Regained: The Second Book"
+    "John Milton|Paradise Regained: The Second Book",
+    "William Shakespeare|Sonnet 9: Is it for fear to wet a widow's eye"
   ],
   "artworks": [
     "156461",
@@ -275,7 +276,8 @@
     "149776",
     "88930",
     "4037",
-    "31522"
+    "31522",
+    "110663"
   ],
   "essays": [
     "essay-022",
@@ -293,7 +295,8 @@
     "essay-007",
     "essay-006",
     "essay-009",
-    "essay-019"
+    "essay-019",
+    "essay-016"
   ],
   "stories": [
     "story-023",
@@ -311,7 +314,8 @@
     "story-015",
     "story-010",
     "story-016",
-    "story-020"
+    "story-020",
+    "story-019"
   ],
   "life_lessons": [
     "lesson-022",
@@ -329,6 +333,7 @@
     "lesson-019",
     "lesson-003",
     "lesson-025",
-    "lesson-016"
+    "lesson-016",
+    "lesson-021"
   ]
 }
