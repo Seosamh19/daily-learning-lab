@@ -134,7 +134,8 @@
     "Percy Bysshe Shelley|Fragment: 'Ye Gentle Visitations of Calm Thought'",
     "Percy Bysshe Shelley|To Miss -- -- [Harriet Grove] from Miss -- -- [Elizabeth Shelley]",
     "John Milton|Paradise Regained: The Second Book",
-    "William Shakespeare|Sonnet 9: Is it for fear to wet a widow's eye"
+    "William Shakespeare|Sonnet 9: Is it for fear to wet a widow's eye",
+    "Percy Bysshe Shelley|Charles the First"
   ],
   "artworks": [
     "156461",
@@ -277,7 +278,8 @@
     "88930",
     "4037",
     "31522",
-    "110663"
+    "110663",
+    "126783"
   ],
   "essays": [
     "essay-022",
@@ -296,7 +298,8 @@
     "essay-006",
     "essay-009",
     "essay-019",
-    "essay-016"
+    "essay-016",
+    "essay-025"
   ],
   "stories": [
     "story-023",
@@ -315,7 +318,8 @@
     "story-010",
     "story-016",
     "story-020",
-    "story-019"
+    "story-019",
+    "story-007"
   ],
   "life_lessons": [
     "lesson-022",
@@ -334,6 +338,7 @@
     "lesson-003",
     "lesson-025",
     "lesson-016",
-    "lesson-021"
+    "lesson-021",
+    "lesson-013"
   ]
 }
