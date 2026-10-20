@@ -137,7 +137,8 @@
     "William Shakespeare|Sonnet 9: Is it for fear to wet a widow's eye",
     "Percy Bysshe Shelley|Charles the First",
     "Percy Bysshe Shelley|To Constantia",
-    "Percy Bysshe Shelley|Ode to Naples"
+    "Percy Bysshe Shelley|Ode to Naples",
+    "Edgar Allan Poe|Tamerlane"
   ],
   "artworks": [
     "156461",
@@ -283,7 +284,8 @@
     "110663",
     "126783",
     "22081",
-    "25974"
+    "25974",
+    "27470"
   ],
   "essays": [
     "essay-022",
@@ -305,7 +307,8 @@
     "essay-016",
     "essay-025",
     "essay-012",
-    "essay-023"
+    "essay-023",
+    "essay-018"
   ],
   "stories": [
     "story-023",
@@ -327,7 +330,8 @@
     "story-019",
     "story-007",
     "story-011",
-    "story-003"
+    "story-003",
+    "story-021"
   ],
   "life_lessons": [
     "lesson-022",
@@ -349,6 +353,7 @@
     "lesson-021",
     "lesson-013",
     "lesson-011",
-    "lesson-014"
+    "lesson-014",
+    "lesson-002"
   ]
 }
