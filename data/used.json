@@ -138,7 +138,8 @@
     "Percy Bysshe Shelley|Charles the First",
     "Percy Bysshe Shelley|To Constantia",
     "Percy Bysshe Shelley|Ode to Naples",
-    "Edgar Allan Poe|Tamerlane"
+    "Edgar Allan Poe|Tamerlane",
+    "Percy Bysshe Shelley|The Sunset"
   ],
   "artworks": [
     "156461",
@@ -285,7 +286,8 @@
     "126783",
     "22081",
     "25974",
-    "27470"
+    "27470",
+    "4067"
   ],
   "essays": [
     "essay-022",
@@ -308,7 +310,8 @@
     "essay-025",
     "essay-012",
     "essay-023",
-    "essay-018"
+    "essay-018",
+    "essay-002"
   ],
   "stories": [
     "story-023",
@@ -331,7 +334,8 @@
     "story-007",
     "story-011",
     "story-003",
-    "story-021"
+    "story-021",
+    "story-014"
   ],
   "life_lessons": [
     "lesson-022",
@@ -354,6 +358,7 @@
     "lesson-013",
     "lesson-011",
     "lesson-014",
-    "lesson-002"
+    "lesson-002",
+    "lesson-018"
   ]
 }
