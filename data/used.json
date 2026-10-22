@@ -139,7 +139,8 @@
     "Percy Bysshe Shelley|To Constantia",
     "Percy Bysshe Shelley|Ode to Naples",
     "Edgar Allan Poe|Tamerlane",
-    "Percy Bysshe Shelley|The Sunset"
+    "Percy Bysshe Shelley|The Sunset",
+    "Percy Bysshe Shelley|Kissing Helena"
   ],
   "artworks": [
     "156461",
@@ -311,7 +312,8 @@
     "essay-012",
     "essay-023",
     "essay-018",
-    "essay-002"
+    "essay-002",
+    "essay-014"
   ],
   "stories": [
     "story-023",
@@ -335,7 +337,8 @@
     "story-011",
     "story-003",
     "story-021",
-    "story-014"
+    "story-014",
+    "story-012"
   ],
   "life_lessons": [
     "lesson-022",
@@ -359,6 +362,7 @@
     "lesson-011",
     "lesson-014",
     "lesson-002",
-    "lesson-018"
+    "lesson-018",
+    "lesson-017"
   ]
 }
