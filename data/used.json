@@ -140,7 +140,8 @@
     "Percy Bysshe Shelley|Ode to Naples",
     "Edgar Allan Poe|Tamerlane",
     "Percy Bysshe Shelley|The Sunset",
-    "Percy Bysshe Shelley|Kissing Helena"
+    "Percy Bysshe Shelley|Kissing Helena",
+    "John Milton|Paradise Regained: The Third Book"
   ],
   "artworks": [
     "156461",
@@ -313,7 +314,8 @@
     "essay-023",
     "essay-018",
     "essay-002",
-    "essay-014"
+    "essay-014",
+    "essay-005"
   ],
   "stories": [
     "story-023",
@@ -338,7 +340,8 @@
     "story-003",
     "story-021",
     "story-014",
-    "story-012"
+    "story-012",
+    "story-005"
   ],
   "life_lessons": [
     "lesson-022",
@@ -363,6 +366,7 @@
     "lesson-014",
     "lesson-002",
     "lesson-018",
-    "lesson-017"
+    "lesson-017",
+    "lesson-005"
   ]
 }
