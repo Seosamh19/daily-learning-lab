@@ -141,7 +141,8 @@
     "Edgar Allan Poe|Tamerlane",
     "Percy Bysshe Shelley|The Sunset",
     "Percy Bysshe Shelley|Kissing Helena",
-    "John Milton|Paradise Regained: The Third Book"
+    "John Milton|Paradise Regained: The Third Book",
+    "Ann Taylor|About the Little Girl that Beat Her Sister"
   ],
   "artworks": [
     "156461",
@@ -315,7 +316,8 @@
     "essay-018",
     "essay-002",
     "essay-014",
-    "essay-005"
+    "essay-005",
+    "essay-013"
   ],
   "stories": [
     "story-023",
@@ -341,7 +343,8 @@
     "story-021",
     "story-014",
     "story-012",
-    "story-005"
+    "story-005",
+    "story-009"
   ],
   "life_lessons": [
     "lesson-022",
@@ -367,6 +370,7 @@
     "lesson-002",
     "lesson-018",
     "lesson-017",
-    "lesson-005"
+    "lesson-005",
+    "lesson-009"
   ]
 }
