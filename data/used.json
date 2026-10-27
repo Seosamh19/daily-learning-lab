@@ -144,7 +144,8 @@
     "John Milton|Paradise Regained: The Third Book",
     "Ann Taylor|About the Little Girl that Beat Her Sister",
     "Percy Bysshe Shelley|Cancelled Passage of Mont Blanc",
-    "Walt Whitman|An Old Man\u2019s Thought of School"
+    "Walt Whitman|An Old Man\u2019s Thought of School",
+    "Geoffrey Chaucer|Troilus and Criseyde: Book V"
   ],
   "artworks": [
     "156461",
@@ -296,14 +297,17 @@
   ],
   "essays": [
     "essay-008",
-    "essay-018"
+    "essay-018",
+    "essay-004"
   ],
   "stories": [
     "story-012",
-    "story-021"
+    "story-021",
+    "story-007"
   ],
   "life_lessons": [
     "lesson-010",
-    "lesson-005"
+    "lesson-005",
+    "lesson-009"
   ]
 }
