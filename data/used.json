@@ -145,7 +145,8 @@
     "Ann Taylor|About the Little Girl that Beat Her Sister",
     "Percy Bysshe Shelley|Cancelled Passage of Mont Blanc",
     "Walt Whitman|An Old Man\u2019s Thought of School",
-    "Geoffrey Chaucer|Troilus and Criseyde: Book V"
+    "Geoffrey Chaucer|Troilus and Criseyde: Book V",
+    "William Shakespeare|Sonnet 17: Who will believe my verse in time to come"
   ],
   "artworks": [
     "156461",
@@ -298,16 +299,19 @@
   "essays": [
     "essay-008",
     "essay-018",
-    "essay-004"
+    "essay-004",
+    "essay-003"
   ],
   "stories": [
     "story-012",
     "story-021",
-    "story-007"
+    "story-007",
+    "story-014"
   ],
   "life_lessons": [
     "lesson-010",
     "lesson-005",
-    "lesson-009"
+    "lesson-009",
+    "lesson-012"
   ]
 }
