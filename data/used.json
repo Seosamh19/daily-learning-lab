@@ -147,7 +147,8 @@
     "Walt Whitman|An Old Man\u2019s Thought of School",
     "Geoffrey Chaucer|Troilus and Criseyde: Book V",
     "William Shakespeare|Sonnet 17: Who will believe my verse in time to come",
-    "Emily Dickinson|I breathed enough to learn the trick"
+    "Emily Dickinson|I breathed enough to learn the trick",
+    "John Milton|Paradise Lost: Book VIII"
   ],
   "artworks": [
     "156461",
@@ -302,20 +303,23 @@
     "essay-018",
     "essay-004",
     "essay-003",
-    "essay-019"
+    "essay-019",
+    "essay-020"
   ],
   "stories": [
     "story-012",
     "story-021",
     "story-007",
     "story-014",
-    "story-016"
+    "story-016",
+    "story-013"
   ],
   "life_lessons": [
     "lesson-010",
     "lesson-005",
     "lesson-009",
     "lesson-012",
-    "lesson-017"
+    "lesson-017",
+    "lesson-002"
   ]
 }
