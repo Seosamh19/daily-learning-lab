@@ -148,7 +148,8 @@
     "Geoffrey Chaucer|Troilus and Criseyde: Book V",
     "William Shakespeare|Sonnet 17: Who will believe my verse in time to come",
     "Emily Dickinson|I breathed enough to learn the trick",
-    "John Milton|Paradise Lost: Book VIII"
+    "John Milton|Paradise Lost: Book VIII",
+    "Alexander Pope|Satire II. to Mr Bethel."
   ],
   "artworks": [
     "156461",
@@ -304,7 +305,8 @@
     "essay-004",
     "essay-003",
     "essay-019",
-    "essay-020"
+    "essay-020",
+    "essay-011"
   ],
   "stories": [
     "story-012",
@@ -312,7 +314,8 @@
     "story-007",
     "story-014",
     "story-016",
-    "story-013"
+    "story-013",
+    "story-009"
   ],
   "life_lessons": [
     "lesson-010",
@@ -320,6 +323,7 @@
     "lesson-009",
     "lesson-012",
     "lesson-017",
-    "lesson-002"
+    "lesson-002",
+    "lesson-015"
   ]
 }
