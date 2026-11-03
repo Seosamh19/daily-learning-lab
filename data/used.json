@@ -151,7 +151,8 @@
     "John Milton|Paradise Lost: Book VIII",
     "Alexander Pope|Satire II. to Mr Bethel.",
     "Edgar Allan Poe|Romance",
-    "George Gordon, Lord Byron|The Prisoner of Chillon"
+    "George Gordon, Lord Byron|The Prisoner of Chillon",
+    "Percy Bysshe Shelley|Sonnet"
   ],
   "artworks": [
     "156461",
@@ -310,7 +311,8 @@
     "essay-020",
     "essay-011",
     "essay-007",
-    "essay-013"
+    "essay-013",
+    "essay-021"
   ],
   "stories": [
     "story-012",
@@ -321,7 +323,8 @@
     "story-013",
     "story-009",
     "story-019",
-    "story-004"
+    "story-004",
+    "story-006"
   ],
   "life_lessons": [
     "lesson-010",
@@ -332,6 +335,7 @@
     "lesson-002",
     "lesson-015",
     "lesson-008",
-    "lesson-006"
+    "lesson-006",
+    "lesson-023"
   ]
 }
