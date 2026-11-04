@@ -152,7 +152,8 @@
     "Alexander Pope|Satire II. to Mr Bethel.",
     "Edgar Allan Poe|Romance",
     "George Gordon, Lord Byron|The Prisoner of Chillon",
-    "Percy Bysshe Shelley|Sonnet"
+    "Percy Bysshe Shelley|Sonnet",
+    "William Shakespeare|Sonnet 73: That time of year thou mayst in me behold"
   ],
   "artworks": [
     "156461",
@@ -312,7 +313,8 @@
     "essay-011",
     "essay-007",
     "essay-013",
-    "essay-021"
+    "essay-021",
+    "essay-022"
   ],
   "stories": [
     "story-012",
@@ -324,7 +326,8 @@
     "story-009",
     "story-019",
     "story-004",
-    "story-006"
+    "story-006",
+    "story-015"
   ],
   "life_lessons": [
     "lesson-010",
@@ -336,6 +339,7 @@
     "lesson-015",
     "lesson-008",
     "lesson-006",
-    "lesson-023"
+    "lesson-023",
+    "lesson-019"
   ]
 }
