@@ -153,7 +153,8 @@
     "Edgar Allan Poe|Romance",
     "George Gordon, Lord Byron|The Prisoner of Chillon",
     "Percy Bysshe Shelley|Sonnet",
-    "William Shakespeare|Sonnet 73: That time of year thou mayst in me behold"
+    "William Shakespeare|Sonnet 73: That time of year thou mayst in me behold",
+    "Christopher Smart|Jubilate Agno: Fragment D"
   ],
   "artworks": [
     "156461",
@@ -314,7 +315,8 @@
     "essay-007",
     "essay-013",
     "essay-021",
-    "essay-022"
+    "essay-022",
+    "essay-016"
   ],
   "stories": [
     "story-012",
@@ -327,7 +329,8 @@
     "story-019",
     "story-004",
     "story-006",
-    "story-015"
+    "story-015",
+    "story-008"
   ],
   "life_lessons": [
     "lesson-010",
@@ -340,6 +343,7 @@
     "lesson-008",
     "lesson-006",
     "lesson-023",
-    "lesson-019"
+    "lesson-019",
+    "lesson-013"
   ]
 }
