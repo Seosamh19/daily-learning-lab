@@ -154,7 +154,8 @@
     "George Gordon, Lord Byron|The Prisoner of Chillon",
     "Percy Bysshe Shelley|Sonnet",
     "William Shakespeare|Sonnet 73: That time of year thou mayst in me behold",
-    "Christopher Smart|Jubilate Agno: Fragment D"
+    "Christopher Smart|Jubilate Agno: Fragment D",
+    "Walt Whitman|Song of the Exposition"
   ],
   "artworks": [
     "156461",
@@ -316,7 +317,8 @@
     "essay-013",
     "essay-021",
     "essay-022",
-    "essay-016"
+    "essay-016",
+    "essay-024"
   ],
   "stories": [
     "story-012",
@@ -330,7 +332,8 @@
     "story-004",
     "story-006",
     "story-015",
-    "story-008"
+    "story-008",
+    "story-020"
   ],
   "life_lessons": [
     "lesson-010",
@@ -344,6 +347,7 @@
     "lesson-006",
     "lesson-023",
     "lesson-019",
-    "lesson-013"
+    "lesson-013",
+    "lesson-003"
   ]
 }
