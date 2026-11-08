@@ -156,7 +156,8 @@
     "William Shakespeare|Sonnet 73: That time of year thou mayst in me behold",
     "Christopher Smart|Jubilate Agno: Fragment D",
     "Walt Whitman|Song of the Exposition",
-    "William Blake|The Lily"
+    "William Blake|The Lily",
+    "Geoffrey Chaucer|Troilus and Criseyde: Book II"
   ],
   "artworks": [
     "156461",
@@ -320,7 +321,8 @@
     "essay-022",
     "essay-016",
     "essay-024",
-    "essay-015"
+    "essay-015",
+    "essay-012"
   ],
   "stories": [
     "story-012",
@@ -336,7 +338,8 @@
     "story-015",
     "story-008",
     "story-020",
-    "story-017"
+    "story-017",
+    "story-018"
   ],
   "life_lessons": [
     "lesson-010",
@@ -352,6 +355,7 @@
     "lesson-019",
     "lesson-013",
     "lesson-003",
-    "lesson-016"
+    "lesson-016",
+    "lesson-004"
   ]
 }
