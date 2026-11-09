@@ -157,7 +157,8 @@
     "Christopher Smart|Jubilate Agno: Fragment D",
     "Walt Whitman|Song of the Exposition",
     "William Blake|The Lily",
-    "Geoffrey Chaucer|Troilus and Criseyde: Book II"
+    "Geoffrey Chaucer|Troilus and Criseyde: Book II",
+    "Percy Bysshe Shelley|War"
   ],
   "artworks": [
     "156461",
@@ -322,7 +323,8 @@
     "essay-016",
     "essay-024",
     "essay-015",
-    "essay-012"
+    "essay-012",
+    "essay-023"
   ],
   "stories": [
     "story-012",
@@ -339,7 +341,8 @@
     "story-008",
     "story-020",
     "story-017",
-    "story-018"
+    "story-018",
+    "story-010"
   ],
   "life_lessons": [
     "lesson-010",
@@ -356,6 +359,7 @@
     "lesson-013",
     "lesson-003",
     "lesson-016",
-    "lesson-004"
+    "lesson-004",
+    "lesson-021"
   ]
 }
