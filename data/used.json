@@ -159,7 +159,8 @@
     "William Blake|The Lily",
     "Geoffrey Chaucer|Troilus and Criseyde: Book II",
     "Percy Bysshe Shelley|War",
-    "George Gordon, Lord Byron|Hints from Horace"
+    "George Gordon, Lord Byron|Hints from Horace",
+    "George Gordon, Lord Byron|Beppo: A Venetian Story"
   ],
   "artworks": [
     "156461",
@@ -326,7 +327,8 @@
     "essay-015",
     "essay-012",
     "essay-023",
-    "essay-001"
+    "essay-001",
+    "essay-009"
   ],
   "stories": [
     "story-012",
@@ -345,7 +347,8 @@
     "story-017",
     "story-018",
     "story-010",
-    "story-002"
+    "story-002",
+    "story-001"
   ],
   "life_lessons": [
     "lesson-010",
@@ -364,6 +367,7 @@
     "lesson-016",
     "lesson-004",
     "lesson-021",
-    "lesson-020"
+    "lesson-020",
+    "lesson-014"
   ]
 }
