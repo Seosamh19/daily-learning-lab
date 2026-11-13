@@ -161,7 +161,8 @@
     "Percy Bysshe Shelley|War",
     "George Gordon, Lord Byron|Hints from Horace",
     "George Gordon, Lord Byron|Beppo: A Venetian Story",
-    "Ben Jonson|That Women Are but Men's Shadows"
+    "Ben Jonson|That Women Are but Men's Shadows",
+    "William Allingham|On a Forenoon of Spring"
   ],
   "artworks": [
     "156461",
@@ -330,7 +331,8 @@
     "essay-023",
     "essay-001",
     "essay-009",
-    "essay-005"
+    "essay-005",
+    "essay-025"
   ],
   "stories": [
     "story-012",
@@ -351,7 +353,8 @@
     "story-010",
     "story-002",
     "story-001",
-    "story-022"
+    "story-022",
+    "story-024"
   ],
   "life_lessons": [
     "lesson-010",
@@ -372,6 +375,7 @@
     "lesson-021",
     "lesson-020",
     "lesson-014",
-    "lesson-024"
+    "lesson-024",
+    "lesson-001"
   ]
 }
