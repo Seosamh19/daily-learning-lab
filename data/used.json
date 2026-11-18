@@ -166,7 +166,8 @@
     "Percy Bysshe Shelley|Oedipus Tyrannus or Swellfoot the Tyrant. A Tragedy in Two Acts",
     "George Gordon, Lord Byron|Don Juan",
     "Geoffrey Chaucer|Troilus and Criseyde: Book I",
-    "Samuel Coleridge|Sonnet"
+    "Samuel Coleridge|Sonnet",
+    "Robert Louis Stevenson|Good and Bad Children"
   ],
   "artworks": [
     "156461",
@@ -340,7 +341,8 @@
     "essay-006",
     "essay-014",
     "essay-010",
-    "essay-017"
+    "essay-017",
+    "essay-002"
   ],
   "stories": [
     "story-012",
@@ -366,7 +368,8 @@
     "story-011",
     "story-005",
     "story-025",
-    "story-003"
+    "story-003",
+    "story-023"
   ],
   "life_lessons": [
     "lesson-010",
@@ -392,6 +395,7 @@
     "lesson-018",
     "lesson-022",
     "lesson-007",
-    "lesson-011"
+    "lesson-011",
+    "lesson-025"
   ]
 }
