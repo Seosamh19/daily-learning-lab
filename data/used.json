@@ -168,7 +168,8 @@
     "Geoffrey Chaucer|Troilus and Criseyde: Book I",
     "Samuel Coleridge|Sonnet",
     "Robert Louis Stevenson|Good and Bad Children",
-    "John Keats|To My Brother George"
+    "John Keats|To My Brother George",
+    "George Gordon, Lord Byron|Werner: First Draft"
   ],
   "artworks": [
     "156461",
@@ -319,12 +320,15 @@
     "4067"
   ],
   "essays": [
-    "essay-006"
+    "essay-006",
+    "essay-025"
   ],
   "stories": [
-    "story-016"
+    "story-016",
+    "story-022"
   ],
   "life_lessons": [
-    "lesson-025"
+    "lesson-025",
+    "lesson-005"
   ]
 }
