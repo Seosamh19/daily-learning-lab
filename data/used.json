@@ -169,7 +169,8 @@
     "Samuel Coleridge|Sonnet",
     "Robert Louis Stevenson|Good and Bad Children",
     "John Keats|To My Brother George",
-    "George Gordon, Lord Byron|Werner: First Draft"
+    "George Gordon, Lord Byron|Werner: First Draft",
+    "George Gordon, Lord Byron|The Island"
   ],
   "artworks": [
     "156461",
@@ -321,14 +322,17 @@
   ],
   "essays": [
     "essay-006",
-    "essay-025"
+    "essay-025",
+    "essay-005"
   ],
   "stories": [
     "story-016",
-    "story-022"
+    "story-022",
+    "story-020"
   ],
   "life_lessons": [
     "lesson-025",
-    "lesson-005"
+    "lesson-005",
+    "lesson-016"
   ]
 }
