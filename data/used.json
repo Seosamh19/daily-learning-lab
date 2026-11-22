@@ -170,7 +170,8 @@
     "Robert Louis Stevenson|Good and Bad Children",
     "John Keats|To My Brother George",
     "George Gordon, Lord Byron|Werner: First Draft",
-    "George Gordon, Lord Byron|The Island"
+    "George Gordon, Lord Byron|The Island",
+    "Edward Thomas|March the Third (the Author's Birthday)"
   ],
   "artworks": [
     "156461",
@@ -323,16 +324,19 @@
   "essays": [
     "essay-006",
     "essay-025",
-    "essay-005"
+    "essay-005",
+    "essay-001"
   ],
   "stories": [
     "story-016",
     "story-022",
-    "story-020"
+    "story-020",
+    "story-002"
   ],
   "life_lessons": [
     "lesson-025",
     "lesson-005",
-    "lesson-016"
+    "lesson-016",
+    "lesson-019"
   ]
 }
