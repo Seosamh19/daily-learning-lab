@@ -171,7 +171,8 @@
     "John Keats|To My Brother George",
     "George Gordon, Lord Byron|Werner: First Draft",
     "George Gordon, Lord Byron|The Island",
-    "Edward Thomas|March the Third (the Author's Birthday)"
+    "Edward Thomas|March the Third (the Author's Birthday)",
+    "George Gordon, Lord Byron|Fragment of an Epistle to Thomas Moore"
   ],
   "artworks": [
     "156461",
@@ -325,18 +326,21 @@
     "essay-006",
     "essay-025",
     "essay-005",
-    "essay-001"
+    "essay-001",
+    "essay-019"
   ],
   "stories": [
     "story-016",
     "story-022",
     "story-020",
-    "story-002"
+    "story-002",
+    "story-025"
   ],
   "life_lessons": [
     "lesson-025",
     "lesson-005",
     "lesson-016",
-    "lesson-019"
+    "lesson-019",
+    "lesson-002"
   ]
 }
