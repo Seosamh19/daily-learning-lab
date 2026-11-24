@@ -172,7 +172,8 @@
     "George Gordon, Lord Byron|Werner: First Draft",
     "George Gordon, Lord Byron|The Island",
     "Edward Thomas|March the Third (the Author's Birthday)",
-    "George Gordon, Lord Byron|Fragment of an Epistle to Thomas Moore"
+    "George Gordon, Lord Byron|Fragment of an Epistle to Thomas Moore",
+    "Geoffrey Chaucer|The Canterbury Tales: Chaucer's Tale of Meliboeus. The Prologue."
   ],
   "artworks": [
     "156461",
@@ -327,20 +328,23 @@
     "essay-025",
     "essay-005",
     "essay-001",
-    "essay-019"
+    "essay-019",
+    "essay-007"
   ],
   "stories": [
     "story-016",
     "story-022",
     "story-020",
     "story-002",
-    "story-025"
+    "story-025",
+    "story-015"
   ],
   "life_lessons": [
     "lesson-025",
     "lesson-005",
     "lesson-016",
     "lesson-019",
-    "lesson-002"
+    "lesson-002",
+    "lesson-023"
   ]
 }
