@@ -173,7 +173,8 @@
     "George Gordon, Lord Byron|The Island",
     "Edward Thomas|March the Third (the Author's Birthday)",
     "George Gordon, Lord Byron|Fragment of an Epistle to Thomas Moore",
-    "Geoffrey Chaucer|The Canterbury Tales: Chaucer's Tale of Meliboeus. The Prologue."
+    "Geoffrey Chaucer|The Canterbury Tales: Chaucer's Tale of Meliboeus. The Prologue.",
+    "Edgar Allan Poe|The City in the Sea"
   ],
   "artworks": [
     "156461",
@@ -329,7 +330,8 @@
     "essay-005",
     "essay-001",
     "essay-019",
-    "essay-007"
+    "essay-007",
+    "essay-016"
   ],
   "stories": [
     "story-016",
@@ -337,7 +339,8 @@
     "story-020",
     "story-002",
     "story-025",
-    "story-015"
+    "story-015",
+    "story-013"
   ],
   "life_lessons": [
     "lesson-025",
@@ -345,6 +348,7 @@
     "lesson-016",
     "lesson-019",
     "lesson-002",
-    "lesson-023"
+    "lesson-023",
+    "lesson-021"
   ]
 }
