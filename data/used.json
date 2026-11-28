@@ -176,7 +176,8 @@
     "Geoffrey Chaucer|The Canterbury Tales: Chaucer's Tale of Meliboeus. The Prologue.",
     "Edgar Allan Poe|The City in the Sea",
     "Andrew Marvell|Upon the Hill and Grove at Bill-borow",
-    "Emily Dickinson|There is a shame of nobleness"
+    "Emily Dickinson|There is a shame of nobleness",
+    "Edward Thomas|How at Once"
   ],
   "artworks": [
     "156461",
@@ -335,7 +336,8 @@
     "essay-007",
     "essay-016",
     "essay-022",
-    "essay-015"
+    "essay-015",
+    "essay-009"
   ],
   "stories": [
     "story-016",
@@ -346,7 +348,8 @@
     "story-015",
     "story-013",
     "story-003",
-    "story-012"
+    "story-012",
+    "story-017"
   ],
   "life_lessons": [
     "lesson-025",
@@ -357,6 +360,7 @@
     "lesson-023",
     "lesson-021",
     "lesson-020",
-    "lesson-003"
+    "lesson-003",
+    "lesson-004"
   ]
 }
